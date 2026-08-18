@@ -1,0 +1,54 @@
+[
+  {
+    "sequence": "The Intern->The Lookout | Kelly->Sam | The Intern->Mrs. Money",
+    "count": 2
+  },
+  {
+    "sequence": "The Intern->Mrs. Money | Mrs. Money->Boss | Boss->Mrs. Money",
+    "count": 2
+  },
+  {
+    "sequence": "Miranda Jordan->Clepper Jensen | Clepper Jensen->Miranda Jordan | Miranda Jordan->Clepper Jensen",
+    "count": 11
+  },
+  {
+    "sequence": "Clepper Jensen->Miranda Jordan | Miranda Jordan->Clepper Jensen | Clepper Jensen->Miranda Jordan",
+    "count": 13
+  },
+  {
+    "sequence": "Rodriguez->Boss | Miranda Jordan->Clepper Jensen | Clepper Jensen->Miranda Jordan",
+    "count": 2
+  },
+  {
+    "sequence": "Neptune->V. Miesel Shipping | V. Miesel Shipping->Neptune | Neptune->Remora",
+    "count": 2
+  },
+  {
+    "sequence": "V. Miesel Shipping->Neptune | Neptune->Remora | Remora->Neptune",
+    "count": 3
+  },
+  {
+    "sequence": "Sentinel->Horizon | Horizon->Sentinel | Green Guardians->Green Guardians",
+    "count": 2
+  },
+  {
+    "sequence": "Reef Guardian->Sentinel | Sentinel->Mako | Mako->Sentinel",
+    "count": 2
+  },
+  {
+    "sequence": "Sentinel->Mako | Mako->Sentinel | Reef Guardian->Reef Guardian",
+    "count": 2
+  },
+  {
+    "sequence": "The Lookout->The Intern | The Intern->The Lookout | The Lookout->The Intern",
+    "count": 2
+  },
+  {
+    "sequence": "The Intern->The Lookout | The Lookout->The Intern | The Intern->Mrs. Money",
+    "count": 2
+  },
+  {
+    "sequence": "Neptune->Remora | Remora->Neptune | Neptune->V. Miesel Shipping",
+    "count": 2
+  }
+]

@@ -1,0 +1,5279 @@
+{
+  "Sam": {
+    "nodes": [
+      "Sam",
+      "Kelly"
+    ],
+    "links": [
+      {
+        "source": "Sam",
+        "target": "Kelly",
+        "weight": 1
+      },
+      {
+        "source": "Kelly",
+        "target": "Sam",
+        "weight": 2
+      }
+    ]
+  },
+  "Kelly": {
+    "nodes": [
+      "Kelly",
+      "Sam"
+    ],
+    "links": [
+      {
+        "source": "Sam",
+        "target": "Kelly",
+        "weight": 1
+      },
+      {
+        "source": "Kelly",
+        "target": "Sam",
+        "weight": 2
+      }
+    ]
+  },
+  "Nadia Conti": {
+    "nodes": [
+      "Nadia Conti",
+      "Haacklee Harbor",
+      "Oceanus City Council",
+      "Liam Thorne",
+      "Neptune",
+      "Marlin",
+      "V. Miesel Shipping"
+    ],
+    "links": [
+      {
+        "source": "Nadia Conti",
+        "target": "Haacklee Harbor",
+        "weight": 1
+      },
+      {
+        "source": "Nadia Conti",
+        "target": "Oceanus City Council",
+        "weight": 1
+      },
+      {
+        "source": "Nadia Conti",
+        "target": "Liam Thorne",
+        "weight": 2
+      },
+      {
+        "source": "Nadia Conti",
+        "target": "Neptune",
+        "weight": 2
+      },
+      {
+        "source": "Nadia Conti",
+        "target": "Marlin",
+        "weight": 1
+      },
+      {
+        "source": "Nadia Conti",
+        "target": "V. Miesel Shipping",
+        "weight": 1
+      },
+      {
+        "source": "Haacklee Harbor",
+        "target": "Nadia Conti",
+        "weight": 1
+      },
+      {
+        "source": "Haacklee Harbor",
+        "target": "Oceanus City Council",
+        "weight": 2
+      },
+      {
+        "source": "Oceanus City Council",
+        "target": "Liam Thorne",
+        "weight": 8
+      },
+      {
+        "source": "Oceanus City Council",
+        "target": "Marlin",
+        "weight": 1
+      },
+      {
+        "source": "Oceanus City Council",
+        "target": "Nadia Conti",
+        "weight": 1
+      },
+      {
+        "source": "Oceanus City Council",
+        "target": "Oceanus City Council",
+        "weight": 1
+      },
+      {
+        "source": "Liam Thorne",
+        "target": "Oceanus City Council",
+        "weight": 6
+      },
+      {
+        "source": "Liam Thorne",
+        "target": "Nadia Conti",
+        "weight": 2
+      },
+      {
+        "source": "Neptune",
+        "target": "V. Miesel Shipping",
+        "weight": 8
+      },
+      {
+        "source": "Neptune",
+        "target": "Nadia Conti",
+        "weight": 1
+      },
+      {
+        "source": "Marlin",
+        "target": "Oceanus City Council",
+        "weight": 1
+      },
+      {
+        "source": "V. Miesel Shipping",
+        "target": "Neptune",
+        "weight": 4
+      },
+      {
+        "source": "V. Miesel Shipping",
+        "target": "V. Miesel Shipping",
+        "weight": 2
+      },
+      {
+        "source": "V. Miesel Shipping",
+        "target": "Nadia Conti",
+        "weight": 1
+      }
+    ]
+  },
+  "Elise": {
+    "nodes": [
+      "Elise",
+      "Nadia Conti",
+      "Liam Thorne",
+      "V. Miesel Shipping"
+    ],
+    "links": [
+      {
+        "source": "Nadia Conti",
+        "target": "Liam Thorne",
+        "weight": 2
+      },
+      {
+        "source": "Nadia Conti",
+        "target": "V. Miesel Shipping",
+        "weight": 1
+      },
+      {
+        "source": "Liam Thorne",
+        "target": "Nadia Conti",
+        "weight": 2
+      },
+      {
+        "source": "Liam Thorne",
+        "target": "Elise",
+        "weight": 1
+      },
+      {
+        "source": "V. Miesel Shipping",
+        "target": "V. Miesel Shipping",
+        "weight": 2
+      },
+      {
+        "source": "V. Miesel Shipping",
+        "target": "Elise",
+        "weight": 1
+      },
+      {
+        "source": "V. Miesel Shipping",
+        "target": "Nadia Conti",
+        "weight": 1
+      },
+      {
+        "source": "Elise",
+        "target": "Nadia Conti",
+        "weight": 3
+      },
+      {
+        "source": "Elise",
+        "target": "Liam Thorne",
+        "weight": 1
+      },
+      {
+        "source": "Elise",
+        "target": "V. Miesel Shipping",
+        "weight": 1
+      }
+    ]
+  },
+  "Liam Thorne": {
+    "nodes": [
+      "Liam Thorne",
+      "Oceanus City Council",
+      "Nadia Conti",
+      "Elise",
+      "Boss",
+      "EcoVigil"
+    ],
+    "links": [
+      {
+        "source": "Nadia Conti",
+        "target": "Oceanus City Council",
+        "weight": 1
+      },
+      {
+        "source": "Nadia Conti",
+        "target": "Liam Thorne",
+        "weight": 2
+      },
+      {
+        "source": "Oceanus City Council",
+        "target": "Liam Thorne",
+        "weight": 8
+      },
+      {
+        "source": "Oceanus City Council",
+        "target": "Nadia Conti",
+        "weight": 1
+      },
+      {
+        "source": "Oceanus City Council",
+        "target": "EcoVigil",
+        "weight": 1
+      },
+      {
+        "source": "Oceanus City Council",
+        "target": "Oceanus City Council",
+        "weight": 1
+      },
+      {
+        "source": "Liam Thorne",
+        "target": "Oceanus City Council",
+        "weight": 6
+      },
+      {
+        "source": "Liam Thorne",
+        "target": "Nadia Conti",
+        "weight": 2
+      },
+      {
+        "source": "Liam Thorne",
+        "target": "Elise",
+        "weight": 1
+      },
+      {
+        "source": "Liam Thorne",
+        "target": "Boss",
+        "weight": 1
+      },
+      {
+        "source": "Liam Thorne",
+        "target": "EcoVigil",
+        "weight": 1
+      },
+      {
+        "source": "Elise",
+        "target": "Nadia Conti",
+        "weight": 3
+      },
+      {
+        "source": "Elise",
+        "target": "Liam Thorne",
+        "weight": 1
+      },
+      {
+        "source": "EcoVigil",
+        "target": "EcoVigil",
+        "weight": 2
+      },
+      {
+        "source": "EcoVigil",
+        "target": "Oceanus City Council",
+        "weight": 1
+      },
+      {
+        "source": "EcoVigil",
+        "target": "Liam Thorne",
+        "weight": 2
+      }
+    ]
+  },
+  "Samantha Blake": {
+    "nodes": [
+      "Samantha Blake",
+      "Sailor Shifts Team",
+      "Oceanus City Council",
+      "Mako"
+    ],
+    "links": [
+      {
+        "source": "Oceanus City Council",
+        "target": "Samantha Blake",
+        "weight": 2
+      },
+      {
+        "source": "Oceanus City Council",
+        "target": "Mako",
+        "weight": 2
+      },
+      {
+        "source": "Oceanus City Council",
+        "target": "Oceanus City Council",
+        "weight": 1
+      },
+      {
+        "source": "Samantha Blake",
+        "target": "Sailor Shifts Team",
+        "weight": 3
+      },
+      {
+        "source": "Samantha Blake",
+        "target": "Oceanus City Council",
+        "weight": 3
+      },
+      {
+        "source": "Samantha Blake",
+        "target": "Mako",
+        "weight": 3
+      },
+      {
+        "source": "Mako",
+        "target": "Sailor Shifts Team",
+        "weight": 1
+      },
+      {
+        "source": "Mako",
+        "target": "Oceanus City Council",
+        "weight": 1
+      },
+      {
+        "source": "Mako",
+        "target": "Samantha Blake",
+        "weight": 4
+      }
+    ]
+  },
+  "Davis": {
+    "nodes": [
+      "Davis",
+      "Davis",
+      "Mako",
+      "Remora",
+      "Himark Harbor",
+      "Nadia Conti",
+      "Neptune",
+      "V. Miesel Shipping",
+      "Boss"
+    ],
+    "links": [
+      {
+        "source": "Nadia Conti",
+        "target": "Neptune",
+        "weight": 2
+      },
+      {
+        "source": "Nadia Conti",
+        "target": "V. Miesel Shipping",
+        "weight": 1
+      },
+      {
+        "source": "Neptune",
+        "target": "Mako",
+        "weight": 7
+      },
+      {
+        "source": "Neptune",
+        "target": "V. Miesel Shipping",
+        "weight": 8
+      },
+      {
+        "source": "Neptune",
+        "target": "Remora",
+        "weight": 9
+      },
+      {
+        "source": "Neptune",
+        "target": "Nadia Conti",
+        "weight": 1
+      },
+      {
+        "source": "Neptune",
+        "target": "Himark Harbor",
+        "weight": 1
+      },
+      {
+        "source": "Neptune",
+        "target": "Davis",
+        "weight": 2
+      },
+      {
+        "source": "V. Miesel Shipping",
+        "target": "Remora",
+        "weight": 2
+      },
+      {
+        "source": "V. Miesel Shipping",
+        "target": "Boss",
+        "weight": 1
+      },
+      {
+        "source": "V. Miesel Shipping",
+        "target": "Neptune",
+        "weight": 4
+      },
+      {
+        "source": "V. Miesel Shipping",
+        "target": "V. Miesel Shipping",
+        "weight": 2
+      },
+      {
+        "source": "V. Miesel Shipping",
+        "target": "Mako",
+        "weight": 1
+      },
+      {
+        "source": "V. Miesel Shipping",
+        "target": "Davis",
+        "weight": 1
+      },
+      {
+        "source": "V. Miesel Shipping",
+        "target": "Nadia Conti",
+        "weight": 1
+      },
+      {
+        "source": "Boss",
+        "target": "V. Miesel Shipping",
+        "weight": 1
+      },
+      {
+        "source": "Boss",
+        "target": "Mako",
+        "weight": 1
+      },
+      {
+        "source": "Mako",
+        "target": "Remora",
+        "weight": 5
+      },
+      {
+        "source": "Mako",
+        "target": "Himark Harbor",
+        "weight": 4
+      },
+      {
+        "source": "Mako",
+        "target": "Davis",
+        "weight": 1
+      },
+      {
+        "source": "Mako",
+        "target": "Boss",
+        "weight": 2
+      },
+      {
+        "source": "Mako",
+        "target": "Neptune",
+        "weight": 3
+      },
+      {
+        "source": "Mako",
+        "target": "V. Miesel Shipping",
+        "weight": 1
+      },
+      {
+        "source": "Davis",
+        "target": "Davis",
+        "weight": 6
+      },
+      {
+        "source": "Davis",
+        "target": "Mako",
+        "weight": 5
+      },
+      {
+        "source": "Davis",
+        "target": "Remora",
+        "weight": 4
+      },
+      {
+        "source": "Davis",
+        "target": "Himark Harbor",
+        "weight": 1
+      },
+      {
+        "source": "Davis",
+        "target": "Nadia Conti",
+        "weight": 5
+      },
+      {
+        "source": "Davis",
+        "target": "Neptune",
+        "weight": 1
+      },
+      {
+        "source": "Davis",
+        "target": "V. Miesel Shipping",
+        "weight": 2
+      },
+      {
+        "source": "Davis",
+        "target": "Boss",
+        "weight": 1
+      },
+      {
+        "source": "Remora",
+        "target": "Mako",
+        "weight": 9
+      },
+      {
+        "source": "Remora",
+        "target": "Neptune",
+        "weight": 6
+      },
+      {
+        "source": "Remora",
+        "target": "Himark Harbor",
+        "weight": 1
+      },
+      {
+        "source": "Remora",
+        "target": "Davis",
+        "weight": 1
+      },
+      {
+        "source": "Remora",
+        "target": "Nadia Conti",
+        "weight": 1
+      },
+      {
+        "source": "Remora",
+        "target": "V. Miesel Shipping",
+        "weight": 1
+      },
+      {
+        "source": "Himark Harbor",
+        "target": "Mako",
+        "weight": 3
+      },
+      {
+        "source": "Himark Harbor",
+        "target": "Remora",
+        "weight": 3
+      },
+      {
+        "source": "Himark Harbor",
+        "target": "Neptune",
+        "weight": 5
+      }
+    ]
+  },
+  "Rodriguez": {
+    "nodes": [
+      "Rodriguez",
+      "Rodriguez",
+      "Boss",
+      "Davis",
+      "Sailor Shifts Team",
+      "Mrs. Money",
+      "Nadia Conti",
+      "Remora"
+    ],
+    "links": [
+      {
+        "source": "Boss",
+        "target": "Mrs. Money",
+        "weight": 4
+      },
+      {
+        "source": "Sailor Shifts Team",
+        "target": "Remora",
+        "weight": 1
+      },
+      {
+        "source": "Sailor Shifts Team",
+        "target": "Nadia Conti",
+        "weight": 1
+      },
+      {
+        "source": "Davis",
+        "target": "Davis",
+        "weight": 6
+      },
+      {
+        "source": "Davis",
+        "target": "Remora",
+        "weight": 4
+      },
+      {
+        "source": "Davis",
+        "target": "Nadia Conti",
+        "weight": 5
+      },
+      {
+        "source": "Davis",
+        "target": "Boss",
+        "weight": 1
+      },
+      {
+        "source": "Remora",
+        "target": "Rodriguez",
+        "weight": 1
+      },
+      {
+        "source": "Remora",
+        "target": "Sailor Shifts Team",
+        "weight": 2
+      },
+      {
+        "source": "Remora",
+        "target": "Davis",
+        "weight": 1
+      },
+      {
+        "source": "Remora",
+        "target": "Nadia Conti",
+        "weight": 1
+      },
+      {
+        "source": "Rodriguez",
+        "target": "Rodriguez",
+        "weight": 4
+      },
+      {
+        "source": "Rodriguez",
+        "target": "Boss",
+        "weight": 3
+      },
+      {
+        "source": "Rodriguez",
+        "target": "Davis",
+        "weight": 3
+      },
+      {
+        "source": "Rodriguez",
+        "target": "Sailor Shifts Team",
+        "weight": 1
+      },
+      {
+        "source": "Rodriguez",
+        "target": "Mrs. Money",
+        "weight": 1
+      },
+      {
+        "source": "Rodriguez",
+        "target": "Nadia Conti",
+        "weight": 1
+      },
+      {
+        "source": "Rodriguez",
+        "target": "Remora",
+        "weight": 1
+      },
+      {
+        "source": "Mrs. Money",
+        "target": "Boss",
+        "weight": 6
+      },
+      {
+        "source": "Mrs. Money",
+        "target": "Remora",
+        "weight": 1
+      }
+    ]
+  },
+  "Clepper Jensen": {
+    "nodes": [
+      "Clepper Jensen",
+      "Miranda Jordan"
+    ],
+    "links": [
+      {
+        "source": "Clepper Jensen",
+        "target": "Miranda Jordan",
+        "weight": 20
+      },
+      {
+        "source": "Miranda Jordan",
+        "target": "Clepper Jensen",
+        "weight": 18
+      }
+    ]
+  },
+  "Miranda Jordan": {
+    "nodes": [
+      "Miranda Jordan",
+      "Clepper Jensen"
+    ],
+    "links": [
+      {
+        "source": "Clepper Jensen",
+        "target": "Miranda Jordan",
+        "weight": 20
+      },
+      {
+        "source": "Miranda Jordan",
+        "target": "Clepper Jensen",
+        "weight": 18
+      }
+    ]
+  },
+  "The Intern": {
+    "nodes": [
+      "The Intern",
+      "The Lookout",
+      "Mrs. Money",
+      "The Intern"
+    ],
+    "links": [
+      {
+        "source": "Mrs. Money",
+        "target": "The Intern",
+        "weight": 5
+      },
+      {
+        "source": "The Intern",
+        "target": "The Lookout",
+        "weight": 8
+      },
+      {
+        "source": "The Intern",
+        "target": "Mrs. Money",
+        "weight": 15
+      },
+      {
+        "source": "The Intern",
+        "target": "The Intern",
+        "weight": 1
+      },
+      {
+        "source": "The Lookout",
+        "target": "The Intern",
+        "weight": 12
+      }
+    ]
+  },
+  "The Lookout": {
+    "nodes": [
+      "The Lookout",
+      "The Intern",
+      "Sam",
+      "Sentinel",
+      "Horizon",
+      "Green Guardians",
+      "Reef Guardian"
+    ],
+    "links": [
+      {
+        "source": "The Intern",
+        "target": "The Lookout",
+        "weight": 8
+      },
+      {
+        "source": "The Intern",
+        "target": "The Intern",
+        "weight": 1
+      },
+      {
+        "source": "The Lookout",
+        "target": "The Intern",
+        "weight": 12
+      },
+      {
+        "source": "The Lookout",
+        "target": "Sam",
+        "weight": 8
+      },
+      {
+        "source": "The Lookout",
+        "target": "Sentinel",
+        "weight": 4
+      },
+      {
+        "source": "The Lookout",
+        "target": "Horizon",
+        "weight": 5
+      },
+      {
+        "source": "The Lookout",
+        "target": "Green Guardians",
+        "weight": 3
+      },
+      {
+        "source": "The Lookout",
+        "target": "Reef Guardian",
+        "weight": 1
+      },
+      {
+        "source": "Sentinel",
+        "target": "Green Guardians",
+        "weight": 2
+      },
+      {
+        "source": "Sentinel",
+        "target": "Horizon",
+        "weight": 5
+      },
+      {
+        "source": "Sentinel",
+        "target": "Reef Guardian",
+        "weight": 1
+      },
+      {
+        "source": "Horizon",
+        "target": "Sentinel",
+        "weight": 4
+      },
+      {
+        "source": "Horizon",
+        "target": "Green Guardians",
+        "weight": 2
+      },
+      {
+        "source": "Horizon",
+        "target": "Reef Guardian",
+        "weight": 1
+      },
+      {
+        "source": "Green Guardians",
+        "target": "Reef Guardian",
+        "weight": 6
+      },
+      {
+        "source": "Green Guardians",
+        "target": "Horizon",
+        "weight": 4
+      },
+      {
+        "source": "Green Guardians",
+        "target": "Green Guardians",
+        "weight": 12
+      },
+      {
+        "source": "Green Guardians",
+        "target": "Sentinel",
+        "weight": 1
+      },
+      {
+        "source": "Reef Guardian",
+        "target": "Horizon",
+        "weight": 3
+      },
+      {
+        "source": "Reef Guardian",
+        "target": "Sentinel",
+        "weight": 3
+      },
+      {
+        "source": "Reef Guardian",
+        "target": "Reef Guardian",
+        "weight": 3
+      }
+    ]
+  },
+  "The Accountant": {
+    "nodes": [
+      "The Accountant",
+      "Boss",
+      "The Middleman"
+    ],
+    "links": [
+      {
+        "source": "Boss",
+        "target": "The Middleman",
+        "weight": 3
+      },
+      {
+        "source": "The Accountant",
+        "target": "Boss",
+        "weight": 2
+      },
+      {
+        "source": "The Accountant",
+        "target": "The Middleman",
+        "weight": 1
+      },
+      {
+        "source": "The Middleman",
+        "target": "Boss",
+        "weight": 4
+      },
+      {
+        "source": "The Middleman",
+        "target": "The Accountant",
+        "weight": 3
+      }
+    ]
+  },
+  "Mrs. Money": {
+    "nodes": [
+      "Mrs. Money",
+      "Boss",
+      "The Middleman",
+      "The Intern",
+      "V. Miesel Shipping",
+      "Neptune",
+      "Mako",
+      "Remora"
+    ],
+    "links": [
+      {
+        "source": "Neptune",
+        "target": "Mako",
+        "weight": 7
+      },
+      {
+        "source": "Neptune",
+        "target": "V. Miesel Shipping",
+        "weight": 8
+      },
+      {
+        "source": "Neptune",
+        "target": "Remora",
+        "weight": 9
+      },
+      {
+        "source": "V. Miesel Shipping",
+        "target": "Remora",
+        "weight": 2
+      },
+      {
+        "source": "V. Miesel Shipping",
+        "target": "Boss",
+        "weight": 1
+      },
+      {
+        "source": "V. Miesel Shipping",
+        "target": "Mrs. Money",
+        "weight": 1
+      },
+      {
+        "source": "V. Miesel Shipping",
+        "target": "Neptune",
+        "weight": 4
+      },
+      {
+        "source": "V. Miesel Shipping",
+        "target": "V. Miesel Shipping",
+        "weight": 2
+      },
+      {
+        "source": "V. Miesel Shipping",
+        "target": "Mako",
+        "weight": 1
+      },
+      {
+        "source": "Boss",
+        "target": "Mrs. Money",
+        "weight": 4
+      },
+      {
+        "source": "Boss",
+        "target": "The Middleman",
+        "weight": 3
+      },
+      {
+        "source": "Boss",
+        "target": "V. Miesel Shipping",
+        "weight": 1
+      },
+      {
+        "source": "Boss",
+        "target": "Mako",
+        "weight": 1
+      },
+      {
+        "source": "Mako",
+        "target": "Remora",
+        "weight": 5
+      },
+      {
+        "source": "Mako",
+        "target": "Boss",
+        "weight": 2
+      },
+      {
+        "source": "Mako",
+        "target": "Neptune",
+        "weight": 3
+      },
+      {
+        "source": "Mako",
+        "target": "V. Miesel Shipping",
+        "weight": 1
+      },
+      {
+        "source": "Remora",
+        "target": "Mako",
+        "weight": 9
+      },
+      {
+        "source": "Remora",
+        "target": "Neptune",
+        "weight": 6
+      },
+      {
+        "source": "Remora",
+        "target": "V. Miesel Shipping",
+        "weight": 1
+      },
+      {
+        "source": "Mrs. Money",
+        "target": "Boss",
+        "weight": 6
+      },
+      {
+        "source": "Mrs. Money",
+        "target": "The Middleman",
+        "weight": 3
+      },
+      {
+        "source": "Mrs. Money",
+        "target": "The Intern",
+        "weight": 5
+      },
+      {
+        "source": "Mrs. Money",
+        "target": "V. Miesel Shipping",
+        "weight": 1
+      },
+      {
+        "source": "Mrs. Money",
+        "target": "Neptune",
+        "weight": 2
+      },
+      {
+        "source": "Mrs. Money",
+        "target": "Mako",
+        "weight": 1
+      },
+      {
+        "source": "Mrs. Money",
+        "target": "Remora",
+        "weight": 1
+      },
+      {
+        "source": "The Intern",
+        "target": "Mrs. Money",
+        "weight": 15
+      },
+      {
+        "source": "The Intern",
+        "target": "The Intern",
+        "weight": 1
+      },
+      {
+        "source": "The Middleman",
+        "target": "Boss",
+        "weight": 4
+      },
+      {
+        "source": "The Middleman",
+        "target": "Mrs. Money",
+        "weight": 3
+      }
+    ]
+  },
+  "The Middleman": {
+    "nodes": [
+      "The Middleman",
+      "Boss",
+      "Mrs. Money",
+      "Paackland Harbor",
+      "Liam Thorne",
+      "The Accountant"
+    ],
+    "links": [
+      {
+        "source": "Liam Thorne",
+        "target": "Boss",
+        "weight": 1
+      },
+      {
+        "source": "Boss",
+        "target": "Mrs. Money",
+        "weight": 4
+      },
+      {
+        "source": "Boss",
+        "target": "The Middleman",
+        "weight": 3
+      },
+      {
+        "source": "Mrs. Money",
+        "target": "Boss",
+        "weight": 6
+      },
+      {
+        "source": "Mrs. Money",
+        "target": "The Middleman",
+        "weight": 3
+      },
+      {
+        "source": "The Accountant",
+        "target": "Boss",
+        "weight": 2
+      },
+      {
+        "source": "The Accountant",
+        "target": "The Middleman",
+        "weight": 1
+      },
+      {
+        "source": "The Middleman",
+        "target": "Boss",
+        "weight": 4
+      },
+      {
+        "source": "The Middleman",
+        "target": "Mrs. Money",
+        "weight": 3
+      },
+      {
+        "source": "The Middleman",
+        "target": "Paackland Harbor",
+        "weight": 1
+      },
+      {
+        "source": "The Middleman",
+        "target": "Liam Thorne",
+        "weight": 2
+      },
+      {
+        "source": "The Middleman",
+        "target": "The Accountant",
+        "weight": 3
+      },
+      {
+        "source": "Paackland Harbor",
+        "target": "Liam Thorne",
+        "weight": 1
+      }
+    ]
+  },
+  "Boss": {
+    "nodes": [
+      "Boss",
+      "Mrs. Money",
+      "The Middleman",
+      "V. Miesel Shipping",
+      "Mako"
+    ],
+    "links": [
+      {
+        "source": "V. Miesel Shipping",
+        "target": "Boss",
+        "weight": 1
+      },
+      {
+        "source": "V. Miesel Shipping",
+        "target": "Mrs. Money",
+        "weight": 1
+      },
+      {
+        "source": "V. Miesel Shipping",
+        "target": "V. Miesel Shipping",
+        "weight": 2
+      },
+      {
+        "source": "V. Miesel Shipping",
+        "target": "Mako",
+        "weight": 1
+      },
+      {
+        "source": "Boss",
+        "target": "Mrs. Money",
+        "weight": 4
+      },
+      {
+        "source": "Boss",
+        "target": "The Middleman",
+        "weight": 3
+      },
+      {
+        "source": "Boss",
+        "target": "V. Miesel Shipping",
+        "weight": 1
+      },
+      {
+        "source": "Boss",
+        "target": "Mako",
+        "weight": 1
+      },
+      {
+        "source": "Mako",
+        "target": "Boss",
+        "weight": 2
+      },
+      {
+        "source": "Mako",
+        "target": "V. Miesel Shipping",
+        "weight": 1
+      },
+      {
+        "source": "Mrs. Money",
+        "target": "Boss",
+        "weight": 6
+      },
+      {
+        "source": "Mrs. Money",
+        "target": "The Middleman",
+        "weight": 3
+      },
+      {
+        "source": "Mrs. Money",
+        "target": "V. Miesel Shipping",
+        "weight": 1
+      },
+      {
+        "source": "Mrs. Money",
+        "target": "Mako",
+        "weight": 1
+      },
+      {
+        "source": "The Middleman",
+        "target": "Boss",
+        "weight": 4
+      },
+      {
+        "source": "The Middleman",
+        "target": "Mrs. Money",
+        "weight": 3
+      }
+    ]
+  },
+  "Small Fry": {
+    "nodes": [
+      "Small Fry",
+      "Mako",
+      "Remora",
+      "Davis"
+    ],
+    "links": [
+      {
+        "source": "Mako",
+        "target": "Remora",
+        "weight": 5
+      },
+      {
+        "source": "Mako",
+        "target": "Davis",
+        "weight": 1
+      },
+      {
+        "source": "Davis",
+        "target": "Davis",
+        "weight": 6
+      },
+      {
+        "source": "Davis",
+        "target": "Mako",
+        "weight": 5
+      },
+      {
+        "source": "Davis",
+        "target": "Remora",
+        "weight": 4
+      },
+      {
+        "source": "Remora",
+        "target": "Mako",
+        "weight": 9
+      },
+      {
+        "source": "Remora",
+        "target": "Davis",
+        "weight": 1
+      },
+      {
+        "source": "Small Fry",
+        "target": "Mako",
+        "weight": 1
+      },
+      {
+        "source": "Small Fry",
+        "target": "Remora",
+        "weight": 4
+      },
+      {
+        "source": "Small Fry",
+        "target": "Davis",
+        "weight": 2
+      }
+    ]
+  },
+  "Glitters Team": {
+    "nodes": [
+      "Glitters Team",
+      "Samantha Blake",
+      "Northern Light",
+      "Boss",
+      "Remora"
+    ],
+    "links": [
+      {
+        "source": "Glitters Team",
+        "target": "Samantha Blake",
+        "weight": 1
+      },
+      {
+        "source": "Glitters Team",
+        "target": "Northern Light",
+        "weight": 1
+      },
+      {
+        "source": "Glitters Team",
+        "target": "Boss",
+        "weight": 1
+      },
+      {
+        "source": "Glitters Team",
+        "target": "Remora",
+        "weight": 1
+      }
+    ]
+  },
+  "Oceanus City Council": {
+    "nodes": [
+      "Oceanus City Council",
+      "Liam Thorne",
+      "Paackland Harbor",
+      "Marlin",
+      "Samantha Blake",
+      "Himark Harbor",
+      "Green Guardians",
+      "Northern Light",
+      "Mako",
+      "Nadia Conti",
+      "Reef Guardian",
+      "Sentinel",
+      "EcoVigil",
+      "Oceanus City Council"
+    ],
+    "links": [
+      {
+        "source": "Nadia Conti",
+        "target": "Oceanus City Council",
+        "weight": 1
+      },
+      {
+        "source": "Nadia Conti",
+        "target": "Liam Thorne",
+        "weight": 2
+      },
+      {
+        "source": "Nadia Conti",
+        "target": "Marlin",
+        "weight": 1
+      },
+      {
+        "source": "Oceanus City Council",
+        "target": "Liam Thorne",
+        "weight": 8
+      },
+      {
+        "source": "Oceanus City Council",
+        "target": "Paackland Harbor",
+        "weight": 6
+      },
+      {
+        "source": "Oceanus City Council",
+        "target": "Marlin",
+        "weight": 1
+      },
+      {
+        "source": "Oceanus City Council",
+        "target": "Samantha Blake",
+        "weight": 2
+      },
+      {
+        "source": "Oceanus City Council",
+        "target": "Himark Harbor",
+        "weight": 5
+      },
+      {
+        "source": "Oceanus City Council",
+        "target": "Green Guardians",
+        "weight": 6
+      },
+      {
+        "source": "Oceanus City Council",
+        "target": "Northern Light",
+        "weight": 1
+      },
+      {
+        "source": "Oceanus City Council",
+        "target": "Mako",
+        "weight": 2
+      },
+      {
+        "source": "Oceanus City Council",
+        "target": "Nadia Conti",
+        "weight": 1
+      },
+      {
+        "source": "Oceanus City Council",
+        "target": "Reef Guardian",
+        "weight": 2
+      },
+      {
+        "source": "Oceanus City Council",
+        "target": "Sentinel",
+        "weight": 1
+      },
+      {
+        "source": "Oceanus City Council",
+        "target": "EcoVigil",
+        "weight": 1
+      },
+      {
+        "source": "Oceanus City Council",
+        "target": "Oceanus City Council",
+        "weight": 1
+      },
+      {
+        "source": "Liam Thorne",
+        "target": "Oceanus City Council",
+        "weight": 6
+      },
+      {
+        "source": "Liam Thorne",
+        "target": "Nadia Conti",
+        "weight": 2
+      },
+      {
+        "source": "Liam Thorne",
+        "target": "EcoVigil",
+        "weight": 1
+      },
+      {
+        "source": "Marlin",
+        "target": "Himark Harbor",
+        "weight": 2
+      },
+      {
+        "source": "Marlin",
+        "target": "Oceanus City Council",
+        "weight": 1
+      },
+      {
+        "source": "Marlin",
+        "target": "Mako",
+        "weight": 1
+      },
+      {
+        "source": "Marlin",
+        "target": "Reef Guardian",
+        "weight": 1
+      },
+      {
+        "source": "EcoVigil",
+        "target": "Reef Guardian",
+        "weight": 2
+      },
+      {
+        "source": "EcoVigil",
+        "target": "EcoVigil",
+        "weight": 2
+      },
+      {
+        "source": "EcoVigil",
+        "target": "Oceanus City Council",
+        "weight": 1
+      },
+      {
+        "source": "EcoVigil",
+        "target": "Liam Thorne",
+        "weight": 2
+      },
+      {
+        "source": "EcoVigil",
+        "target": "Sentinel",
+        "weight": 2
+      },
+      {
+        "source": "Samantha Blake",
+        "target": "Oceanus City Council",
+        "weight": 3
+      },
+      {
+        "source": "Samantha Blake",
+        "target": "Mako",
+        "weight": 3
+      },
+      {
+        "source": "Mako",
+        "target": "Himark Harbor",
+        "weight": 4
+      },
+      {
+        "source": "Mako",
+        "target": "Marlin",
+        "weight": 1
+      },
+      {
+        "source": "Mako",
+        "target": "Reef Guardian",
+        "weight": 2
+      },
+      {
+        "source": "Mako",
+        "target": "Sentinel",
+        "weight": 4
+      },
+      {
+        "source": "Mako",
+        "target": "Oceanus City Council",
+        "weight": 1
+      },
+      {
+        "source": "Mako",
+        "target": "Samantha Blake",
+        "weight": 4
+      },
+      {
+        "source": "Mako",
+        "target": "Paackland Harbor",
+        "weight": 2
+      },
+      {
+        "source": "Himark Harbor",
+        "target": "Mako",
+        "weight": 3
+      },
+      {
+        "source": "Himark Harbor",
+        "target": "Marlin",
+        "weight": 2
+      },
+      {
+        "source": "Himark Harbor",
+        "target": "Oceanus City Council",
+        "weight": 7
+      },
+      {
+        "source": "Himark Harbor",
+        "target": "Northern Light",
+        "weight": 1
+      },
+      {
+        "source": "Sentinel",
+        "target": "Green Guardians",
+        "weight": 2
+      },
+      {
+        "source": "Sentinel",
+        "target": "Paackland Harbor",
+        "weight": 1
+      },
+      {
+        "source": "Sentinel",
+        "target": "Mako",
+        "weight": 5
+      },
+      {
+        "source": "Sentinel",
+        "target": "Reef Guardian",
+        "weight": 1
+      },
+      {
+        "source": "Sentinel",
+        "target": "Oceanus City Council",
+        "weight": 2
+      },
+      {
+        "source": "Sentinel",
+        "target": "Nadia Conti",
+        "weight": 1
+      },
+      {
+        "source": "Green Guardians",
+        "target": "Reef Guardian",
+        "weight": 6
+      },
+      {
+        "source": "Green Guardians",
+        "target": "EcoVigil",
+        "weight": 3
+      },
+      {
+        "source": "Green Guardians",
+        "target": "Oceanus City Council",
+        "weight": 12
+      },
+      {
+        "source": "Green Guardians",
+        "target": "Northern Light",
+        "weight": 1
+      },
+      {
+        "source": "Green Guardians",
+        "target": "Green Guardians",
+        "weight": 12
+      },
+      {
+        "source": "Green Guardians",
+        "target": "Mako",
+        "weight": 2
+      },
+      {
+        "source": "Green Guardians",
+        "target": "Sentinel",
+        "weight": 1
+      },
+      {
+        "source": "Green Guardians",
+        "target": "Paackland Harbor",
+        "weight": 1
+      },
+      {
+        "source": "Reef Guardian",
+        "target": "Mako",
+        "weight": 2
+      },
+      {
+        "source": "Reef Guardian",
+        "target": "Marlin",
+        "weight": 3
+      },
+      {
+        "source": "Reef Guardian",
+        "target": "Paackland Harbor",
+        "weight": 2
+      },
+      {
+        "source": "Reef Guardian",
+        "target": "Sentinel",
+        "weight": 3
+      },
+      {
+        "source": "Reef Guardian",
+        "target": "Reef Guardian",
+        "weight": 3
+      },
+      {
+        "source": "Reef Guardian",
+        "target": "Oceanus City Council",
+        "weight": 4
+      },
+      {
+        "source": "Reef Guardian",
+        "target": "EcoVigil",
+        "weight": 4
+      },
+      {
+        "source": "Paackland Harbor",
+        "target": "Oceanus City Council",
+        "weight": 2
+      },
+      {
+        "source": "Paackland Harbor",
+        "target": "Reef Guardian",
+        "weight": 2
+      },
+      {
+        "source": "Paackland Harbor",
+        "target": "Liam Thorne",
+        "weight": 1
+      },
+      {
+        "source": "Paackland Harbor",
+        "target": "Sentinel",
+        "weight": 4
+      },
+      {
+        "source": "Paackland Harbor",
+        "target": "Mako",
+        "weight": 3
+      },
+      {
+        "source": "Northern Light",
+        "target": "Oceanus City Council",
+        "weight": 1
+      },
+      {
+        "source": "Northern Light",
+        "target": "Green Guardians",
+        "weight": 1
+      },
+      {
+        "source": "Northern Light",
+        "target": "Himark Harbor",
+        "weight": 1
+      }
+    ]
+  },
+  "Green Guardians": {
+    "nodes": [
+      "Green Guardians",
+      "Reef Guardian",
+      "Horizon",
+      "Seawatch",
+      "EcoVigil",
+      "Oceanus City Council",
+      "Northern Light",
+      "Green Guardians",
+      "Mako",
+      "Sentinel",
+      "Paackland Harbor"
+    ],
+    "links": [
+      {
+        "source": "Oceanus City Council",
+        "target": "Paackland Harbor",
+        "weight": 6
+      },
+      {
+        "source": "Oceanus City Council",
+        "target": "Green Guardians",
+        "weight": 6
+      },
+      {
+        "source": "Oceanus City Council",
+        "target": "Northern Light",
+        "weight": 1
+      },
+      {
+        "source": "Oceanus City Council",
+        "target": "Mako",
+        "weight": 2
+      },
+      {
+        "source": "Oceanus City Council",
+        "target": "Reef Guardian",
+        "weight": 2
+      },
+      {
+        "source": "Oceanus City Council",
+        "target": "Sentinel",
+        "weight": 1
+      },
+      {
+        "source": "Oceanus City Council",
+        "target": "EcoVigil",
+        "weight": 1
+      },
+      {
+        "source": "Oceanus City Council",
+        "target": "Oceanus City Council",
+        "weight": 1
+      },
+      {
+        "source": "EcoVigil",
+        "target": "Horizon",
+        "weight": 5
+      },
+      {
+        "source": "EcoVigil",
+        "target": "Reef Guardian",
+        "weight": 2
+      },
+      {
+        "source": "EcoVigil",
+        "target": "EcoVigil",
+        "weight": 2
+      },
+      {
+        "source": "EcoVigil",
+        "target": "Oceanus City Council",
+        "weight": 1
+      },
+      {
+        "source": "EcoVigil",
+        "target": "Sentinel",
+        "weight": 2
+      },
+      {
+        "source": "Mako",
+        "target": "Reef Guardian",
+        "weight": 2
+      },
+      {
+        "source": "Mako",
+        "target": "Sentinel",
+        "weight": 4
+      },
+      {
+        "source": "Mako",
+        "target": "Oceanus City Council",
+        "weight": 1
+      },
+      {
+        "source": "Mako",
+        "target": "Paackland Harbor",
+        "weight": 2
+      },
+      {
+        "source": "Sentinel",
+        "target": "Green Guardians",
+        "weight": 2
+      },
+      {
+        "source": "Sentinel",
+        "target": "Horizon",
+        "weight": 5
+      },
+      {
+        "source": "Sentinel",
+        "target": "Paackland Harbor",
+        "weight": 1
+      },
+      {
+        "source": "Sentinel",
+        "target": "Mako",
+        "weight": 5
+      },
+      {
+        "source": "Sentinel",
+        "target": "Reef Guardian",
+        "weight": 1
+      },
+      {
+        "source": "Sentinel",
+        "target": "Oceanus City Council",
+        "weight": 2
+      },
+      {
+        "source": "Sentinel",
+        "target": "Seawatch",
+        "weight": 1
+      },
+      {
+        "source": "Horizon",
+        "target": "Sentinel",
+        "weight": 4
+      },
+      {
+        "source": "Horizon",
+        "target": "EcoVigil",
+        "weight": 3
+      },
+      {
+        "source": "Horizon",
+        "target": "Green Guardians",
+        "weight": 2
+      },
+      {
+        "source": "Horizon",
+        "target": "Mako",
+        "weight": 1
+      },
+      {
+        "source": "Horizon",
+        "target": "Seawatch",
+        "weight": 2
+      },
+      {
+        "source": "Horizon",
+        "target": "Reef Guardian",
+        "weight": 1
+      },
+      {
+        "source": "Horizon",
+        "target": "Oceanus City Council",
+        "weight": 1
+      },
+      {
+        "source": "Green Guardians",
+        "target": "Reef Guardian",
+        "weight": 6
+      },
+      {
+        "source": "Green Guardians",
+        "target": "Horizon",
+        "weight": 4
+      },
+      {
+        "source": "Green Guardians",
+        "target": "Seawatch",
+        "weight": 2
+      },
+      {
+        "source": "Green Guardians",
+        "target": "EcoVigil",
+        "weight": 3
+      },
+      {
+        "source": "Green Guardians",
+        "target": "Oceanus City Council",
+        "weight": 12
+      },
+      {
+        "source": "Green Guardians",
+        "target": "Northern Light",
+        "weight": 1
+      },
+      {
+        "source": "Green Guardians",
+        "target": "Green Guardians",
+        "weight": 12
+      },
+      {
+        "source": "Green Guardians",
+        "target": "Mako",
+        "weight": 2
+      },
+      {
+        "source": "Green Guardians",
+        "target": "Sentinel",
+        "weight": 1
+      },
+      {
+        "source": "Green Guardians",
+        "target": "Paackland Harbor",
+        "weight": 1
+      },
+      {
+        "source": "Reef Guardian",
+        "target": "Mako",
+        "weight": 2
+      },
+      {
+        "source": "Reef Guardian",
+        "target": "Paackland Harbor",
+        "weight": 2
+      },
+      {
+        "source": "Reef Guardian",
+        "target": "Horizon",
+        "weight": 3
+      },
+      {
+        "source": "Reef Guardian",
+        "target": "Sentinel",
+        "weight": 3
+      },
+      {
+        "source": "Reef Guardian",
+        "target": "Reef Guardian",
+        "weight": 3
+      },
+      {
+        "source": "Reef Guardian",
+        "target": "Oceanus City Council",
+        "weight": 4
+      },
+      {
+        "source": "Reef Guardian",
+        "target": "EcoVigil",
+        "weight": 4
+      },
+      {
+        "source": "Reef Guardian",
+        "target": "Seawatch",
+        "weight": 3
+      },
+      {
+        "source": "Paackland Harbor",
+        "target": "Oceanus City Council",
+        "weight": 2
+      },
+      {
+        "source": "Paackland Harbor",
+        "target": "Reef Guardian",
+        "weight": 2
+      },
+      {
+        "source": "Paackland Harbor",
+        "target": "Sentinel",
+        "weight": 4
+      },
+      {
+        "source": "Paackland Harbor",
+        "target": "Mako",
+        "weight": 3
+      },
+      {
+        "source": "Northern Light",
+        "target": "Oceanus City Council",
+        "weight": 1
+      },
+      {
+        "source": "Northern Light",
+        "target": "Green Guardians",
+        "weight": 1
+      },
+      {
+        "source": "Seawatch",
+        "target": "Reef Guardian",
+        "weight": 1
+      },
+      {
+        "source": "Seawatch",
+        "target": "Green Guardians",
+        "weight": 1
+      }
+    ]
+  },
+  "V. Miesel Shipping": {
+    "nodes": [
+      "V. Miesel Shipping",
+      "Remora",
+      "Boss",
+      "Mrs. Money",
+      "Neptune",
+      "V. Miesel Shipping",
+      "Mako",
+      "Elise",
+      "Davis",
+      "Rodriguez",
+      "Nadia Conti"
+    ],
+    "links": [
+      {
+        "source": "Nadia Conti",
+        "target": "Neptune",
+        "weight": 2
+      },
+      {
+        "source": "Nadia Conti",
+        "target": "V. Miesel Shipping",
+        "weight": 1
+      },
+      {
+        "source": "Neptune",
+        "target": "Mako",
+        "weight": 7
+      },
+      {
+        "source": "Neptune",
+        "target": "V. Miesel Shipping",
+        "weight": 8
+      },
+      {
+        "source": "Neptune",
+        "target": "Remora",
+        "weight": 9
+      },
+      {
+        "source": "Neptune",
+        "target": "Elise",
+        "weight": 3
+      },
+      {
+        "source": "Neptune",
+        "target": "Nadia Conti",
+        "weight": 1
+      },
+      {
+        "source": "Neptune",
+        "target": "Davis",
+        "weight": 2
+      },
+      {
+        "source": "V. Miesel Shipping",
+        "target": "Remora",
+        "weight": 2
+      },
+      {
+        "source": "V. Miesel Shipping",
+        "target": "Boss",
+        "weight": 1
+      },
+      {
+        "source": "V. Miesel Shipping",
+        "target": "Mrs. Money",
+        "weight": 1
+      },
+      {
+        "source": "V. Miesel Shipping",
+        "target": "Neptune",
+        "weight": 4
+      },
+      {
+        "source": "V. Miesel Shipping",
+        "target": "V. Miesel Shipping",
+        "weight": 2
+      },
+      {
+        "source": "V. Miesel Shipping",
+        "target": "Mako",
+        "weight": 1
+      },
+      {
+        "source": "V. Miesel Shipping",
+        "target": "Elise",
+        "weight": 1
+      },
+      {
+        "source": "V. Miesel Shipping",
+        "target": "Davis",
+        "weight": 1
+      },
+      {
+        "source": "V. Miesel Shipping",
+        "target": "Rodriguez",
+        "weight": 1
+      },
+      {
+        "source": "V. Miesel Shipping",
+        "target": "Nadia Conti",
+        "weight": 1
+      },
+      {
+        "source": "Elise",
+        "target": "Nadia Conti",
+        "weight": 3
+      },
+      {
+        "source": "Elise",
+        "target": "V. Miesel Shipping",
+        "weight": 1
+      },
+      {
+        "source": "Boss",
+        "target": "Mrs. Money",
+        "weight": 4
+      },
+      {
+        "source": "Boss",
+        "target": "V. Miesel Shipping",
+        "weight": 1
+      },
+      {
+        "source": "Boss",
+        "target": "Mako",
+        "weight": 1
+      },
+      {
+        "source": "Mako",
+        "target": "Remora",
+        "weight": 5
+      },
+      {
+        "source": "Mako",
+        "target": "Davis",
+        "weight": 1
+      },
+      {
+        "source": "Mako",
+        "target": "Boss",
+        "weight": 2
+      },
+      {
+        "source": "Mako",
+        "target": "Neptune",
+        "weight": 3
+      },
+      {
+        "source": "Mako",
+        "target": "Elise",
+        "weight": 1
+      },
+      {
+        "source": "Mako",
+        "target": "V. Miesel Shipping",
+        "weight": 1
+      },
+      {
+        "source": "Davis",
+        "target": "Davis",
+        "weight": 6
+      },
+      {
+        "source": "Davis",
+        "target": "Mako",
+        "weight": 5
+      },
+      {
+        "source": "Davis",
+        "target": "Remora",
+        "weight": 4
+      },
+      {
+        "source": "Davis",
+        "target": "Nadia Conti",
+        "weight": 5
+      },
+      {
+        "source": "Davis",
+        "target": "Neptune",
+        "weight": 1
+      },
+      {
+        "source": "Davis",
+        "target": "V. Miesel Shipping",
+        "weight": 2
+      },
+      {
+        "source": "Davis",
+        "target": "Boss",
+        "weight": 1
+      },
+      {
+        "source": "Remora",
+        "target": "Rodriguez",
+        "weight": 1
+      },
+      {
+        "source": "Remora",
+        "target": "Mako",
+        "weight": 9
+      },
+      {
+        "source": "Remora",
+        "target": "Neptune",
+        "weight": 6
+      },
+      {
+        "source": "Remora",
+        "target": "Davis",
+        "weight": 1
+      },
+      {
+        "source": "Remora",
+        "target": "Nadia Conti",
+        "weight": 1
+      },
+      {
+        "source": "Remora",
+        "target": "V. Miesel Shipping",
+        "weight": 1
+      },
+      {
+        "source": "Rodriguez",
+        "target": "Rodriguez",
+        "weight": 4
+      },
+      {
+        "source": "Rodriguez",
+        "target": "Boss",
+        "weight": 3
+      },
+      {
+        "source": "Rodriguez",
+        "target": "Davis",
+        "weight": 3
+      },
+      {
+        "source": "Rodriguez",
+        "target": "Mrs. Money",
+        "weight": 1
+      },
+      {
+        "source": "Rodriguez",
+        "target": "Nadia Conti",
+        "weight": 1
+      },
+      {
+        "source": "Rodriguez",
+        "target": "Remora",
+        "weight": 1
+      },
+      {
+        "source": "Mrs. Money",
+        "target": "Boss",
+        "weight": 6
+      },
+      {
+        "source": "Mrs. Money",
+        "target": "V. Miesel Shipping",
+        "weight": 1
+      },
+      {
+        "source": "Mrs. Money",
+        "target": "Neptune",
+        "weight": 2
+      },
+      {
+        "source": "Mrs. Money",
+        "target": "Mako",
+        "weight": 1
+      },
+      {
+        "source": "Mrs. Money",
+        "target": "Remora",
+        "weight": 1
+      }
+    ]
+  },
+  "Sailor Shifts Team": {
+    "nodes": [
+      "Sailor Shifts Team",
+      "Remora",
+      "Nadia Conti"
+    ],
+    "links": [
+      {
+        "source": "Sailor Shifts Team",
+        "target": "Remora",
+        "weight": 1
+      },
+      {
+        "source": "Sailor Shifts Team",
+        "target": "Nadia Conti",
+        "weight": 1
+      },
+      {
+        "source": "Remora",
+        "target": "Sailor Shifts Team",
+        "weight": 2
+      },
+      {
+        "source": "Remora",
+        "target": "Nadia Conti",
+        "weight": 1
+      }
+    ]
+  },
+  "Neptune": {
+    "nodes": [
+      "Neptune",
+      "Mako",
+      "Serenity",
+      "V. Miesel Shipping",
+      "City Officials",
+      "Remora",
+      "Elise",
+      "Reef Guardian",
+      "Nadia Conti",
+      "Himark Harbor",
+      "Davis"
+    ],
+    "links": [
+      {
+        "source": "Nadia Conti",
+        "target": "Neptune",
+        "weight": 2
+      },
+      {
+        "source": "Nadia Conti",
+        "target": "V. Miesel Shipping",
+        "weight": 1
+      },
+      {
+        "source": "Neptune",
+        "target": "Mako",
+        "weight": 7
+      },
+      {
+        "source": "Neptune",
+        "target": "Serenity",
+        "weight": 1
+      },
+      {
+        "source": "Neptune",
+        "target": "V. Miesel Shipping",
+        "weight": 8
+      },
+      {
+        "source": "Neptune",
+        "target": "City Officials",
+        "weight": 1
+      },
+      {
+        "source": "Neptune",
+        "target": "Remora",
+        "weight": 9
+      },
+      {
+        "source": "Neptune",
+        "target": "Elise",
+        "weight": 3
+      },
+      {
+        "source": "Neptune",
+        "target": "Reef Guardian",
+        "weight": 1
+      },
+      {
+        "source": "Neptune",
+        "target": "Nadia Conti",
+        "weight": 1
+      },
+      {
+        "source": "Neptune",
+        "target": "Himark Harbor",
+        "weight": 1
+      },
+      {
+        "source": "Neptune",
+        "target": "Davis",
+        "weight": 2
+      },
+      {
+        "source": "V. Miesel Shipping",
+        "target": "Remora",
+        "weight": 2
+      },
+      {
+        "source": "V. Miesel Shipping",
+        "target": "Neptune",
+        "weight": 4
+      },
+      {
+        "source": "V. Miesel Shipping",
+        "target": "V. Miesel Shipping",
+        "weight": 2
+      },
+      {
+        "source": "V. Miesel Shipping",
+        "target": "Mako",
+        "weight": 1
+      },
+      {
+        "source": "V. Miesel Shipping",
+        "target": "Elise",
+        "weight": 1
+      },
+      {
+        "source": "V. Miesel Shipping",
+        "target": "Davis",
+        "weight": 1
+      },
+      {
+        "source": "V. Miesel Shipping",
+        "target": "Nadia Conti",
+        "weight": 1
+      },
+      {
+        "source": "Elise",
+        "target": "Nadia Conti",
+        "weight": 3
+      },
+      {
+        "source": "Elise",
+        "target": "V. Miesel Shipping",
+        "weight": 1
+      },
+      {
+        "source": "Mako",
+        "target": "Serenity",
+        "weight": 1
+      },
+      {
+        "source": "Mako",
+        "target": "Remora",
+        "weight": 5
+      },
+      {
+        "source": "Mako",
+        "target": "Himark Harbor",
+        "weight": 4
+      },
+      {
+        "source": "Mako",
+        "target": "Reef Guardian",
+        "weight": 2
+      },
+      {
+        "source": "Mako",
+        "target": "Davis",
+        "weight": 1
+      },
+      {
+        "source": "Mako",
+        "target": "Neptune",
+        "weight": 3
+      },
+      {
+        "source": "Mako",
+        "target": "Elise",
+        "weight": 1
+      },
+      {
+        "source": "Mako",
+        "target": "V. Miesel Shipping",
+        "weight": 1
+      },
+      {
+        "source": "Davis",
+        "target": "Davis",
+        "weight": 6
+      },
+      {
+        "source": "Davis",
+        "target": "Mako",
+        "weight": 5
+      },
+      {
+        "source": "Davis",
+        "target": "Remora",
+        "weight": 4
+      },
+      {
+        "source": "Davis",
+        "target": "Himark Harbor",
+        "weight": 1
+      },
+      {
+        "source": "Davis",
+        "target": "Nadia Conti",
+        "weight": 5
+      },
+      {
+        "source": "Davis",
+        "target": "Neptune",
+        "weight": 1
+      },
+      {
+        "source": "Davis",
+        "target": "V. Miesel Shipping",
+        "weight": 2
+      },
+      {
+        "source": "Remora",
+        "target": "Mako",
+        "weight": 9
+      },
+      {
+        "source": "Remora",
+        "target": "Neptune",
+        "weight": 6
+      },
+      {
+        "source": "Remora",
+        "target": "Himark Harbor",
+        "weight": 1
+      },
+      {
+        "source": "Remora",
+        "target": "Davis",
+        "weight": 1
+      },
+      {
+        "source": "Remora",
+        "target": "Nadia Conti",
+        "weight": 1
+      },
+      {
+        "source": "Remora",
+        "target": "V. Miesel Shipping",
+        "weight": 1
+      },
+      {
+        "source": "Himark Harbor",
+        "target": "Mako",
+        "weight": 3
+      },
+      {
+        "source": "Himark Harbor",
+        "target": "Serenity",
+        "weight": 3
+      },
+      {
+        "source": "Himark Harbor",
+        "target": "Remora",
+        "weight": 3
+      },
+      {
+        "source": "Himark Harbor",
+        "target": "Neptune",
+        "weight": 5
+      },
+      {
+        "source": "Reef Guardian",
+        "target": "Serenity",
+        "weight": 3
+      },
+      {
+        "source": "Reef Guardian",
+        "target": "Mako",
+        "weight": 2
+      },
+      {
+        "source": "Reef Guardian",
+        "target": "Neptune",
+        "weight": 1
+      },
+      {
+        "source": "Reef Guardian",
+        "target": "Reef Guardian",
+        "weight": 3
+      },
+      {
+        "source": "Serenity",
+        "target": "Mako",
+        "weight": 2
+      },
+      {
+        "source": "Serenity",
+        "target": "Reef Guardian",
+        "weight": 2
+      },
+      {
+        "source": "Serenity",
+        "target": "Himark Harbor",
+        "weight": 2
+      },
+      {
+        "source": "Serenity",
+        "target": "Neptune",
+        "weight": 2
+      }
+    ]
+  },
+  "Marlin": {
+    "nodes": [
+      "Marlin",
+      "Himark Harbor",
+      "Oceanus City Council",
+      "Mako",
+      "Remora",
+      "Reef Guardian"
+    ],
+    "links": [
+      {
+        "source": "Oceanus City Council",
+        "target": "Marlin",
+        "weight": 1
+      },
+      {
+        "source": "Oceanus City Council",
+        "target": "Himark Harbor",
+        "weight": 5
+      },
+      {
+        "source": "Oceanus City Council",
+        "target": "Mako",
+        "weight": 2
+      },
+      {
+        "source": "Oceanus City Council",
+        "target": "Reef Guardian",
+        "weight": 2
+      },
+      {
+        "source": "Oceanus City Council",
+        "target": "Oceanus City Council",
+        "weight": 1
+      },
+      {
+        "source": "Marlin",
+        "target": "Himark Harbor",
+        "weight": 2
+      },
+      {
+        "source": "Marlin",
+        "target": "Oceanus City Council",
+        "weight": 1
+      },
+      {
+        "source": "Marlin",
+        "target": "Mako",
+        "weight": 1
+      },
+      {
+        "source": "Marlin",
+        "target": "Remora",
+        "weight": 2
+      },
+      {
+        "source": "Marlin",
+        "target": "Reef Guardian",
+        "weight": 1
+      },
+      {
+        "source": "Mako",
+        "target": "Remora",
+        "weight": 5
+      },
+      {
+        "source": "Mako",
+        "target": "Himark Harbor",
+        "weight": 4
+      },
+      {
+        "source": "Mako",
+        "target": "Marlin",
+        "weight": 1
+      },
+      {
+        "source": "Mako",
+        "target": "Reef Guardian",
+        "weight": 2
+      },
+      {
+        "source": "Mako",
+        "target": "Oceanus City Council",
+        "weight": 1
+      },
+      {
+        "source": "Remora",
+        "target": "Mako",
+        "weight": 9
+      },
+      {
+        "source": "Remora",
+        "target": "Himark Harbor",
+        "weight": 1
+      },
+      {
+        "source": "Himark Harbor",
+        "target": "Mako",
+        "weight": 3
+      },
+      {
+        "source": "Himark Harbor",
+        "target": "Marlin",
+        "weight": 2
+      },
+      {
+        "source": "Himark Harbor",
+        "target": "Oceanus City Council",
+        "weight": 7
+      },
+      {
+        "source": "Himark Harbor",
+        "target": "Remora",
+        "weight": 3
+      },
+      {
+        "source": "Reef Guardian",
+        "target": "Mako",
+        "weight": 2
+      },
+      {
+        "source": "Reef Guardian",
+        "target": "Marlin",
+        "weight": 3
+      },
+      {
+        "source": "Reef Guardian",
+        "target": "Reef Guardian",
+        "weight": 3
+      },
+      {
+        "source": "Reef Guardian",
+        "target": "Oceanus City Council",
+        "weight": 4
+      }
+    ]
+  },
+  "Serenity": {
+    "nodes": [
+      "Serenity",
+      "Mako",
+      "Reef Guardian",
+      "Himark Harbor",
+      "Neptune"
+    ],
+    "links": [
+      {
+        "source": "Neptune",
+        "target": "Mako",
+        "weight": 7
+      },
+      {
+        "source": "Neptune",
+        "target": "Serenity",
+        "weight": 1
+      },
+      {
+        "source": "Neptune",
+        "target": "Reef Guardian",
+        "weight": 1
+      },
+      {
+        "source": "Neptune",
+        "target": "Himark Harbor",
+        "weight": 1
+      },
+      {
+        "source": "Mako",
+        "target": "Serenity",
+        "weight": 1
+      },
+      {
+        "source": "Mako",
+        "target": "Himark Harbor",
+        "weight": 4
+      },
+      {
+        "source": "Mako",
+        "target": "Reef Guardian",
+        "weight": 2
+      },
+      {
+        "source": "Mako",
+        "target": "Neptune",
+        "weight": 3
+      },
+      {
+        "source": "Himark Harbor",
+        "target": "Mako",
+        "weight": 3
+      },
+      {
+        "source": "Himark Harbor",
+        "target": "Serenity",
+        "weight": 3
+      },
+      {
+        "source": "Himark Harbor",
+        "target": "Neptune",
+        "weight": 5
+      },
+      {
+        "source": "Reef Guardian",
+        "target": "Serenity",
+        "weight": 3
+      },
+      {
+        "source": "Reef Guardian",
+        "target": "Mako",
+        "weight": 2
+      },
+      {
+        "source": "Reef Guardian",
+        "target": "Neptune",
+        "weight": 1
+      },
+      {
+        "source": "Reef Guardian",
+        "target": "Reef Guardian",
+        "weight": 3
+      },
+      {
+        "source": "Serenity",
+        "target": "Mako",
+        "weight": 2
+      },
+      {
+        "source": "Serenity",
+        "target": "Reef Guardian",
+        "weight": 2
+      },
+      {
+        "source": "Serenity",
+        "target": "Himark Harbor",
+        "weight": 2
+      },
+      {
+        "source": "Serenity",
+        "target": "Neptune",
+        "weight": 2
+      }
+    ]
+  },
+  "Mako": {
+    "nodes": [
+      "Mako",
+      "Serenity",
+      "Remora",
+      "Himark Harbor",
+      "Sailor Shifts Team",
+      "Marlin",
+      "Osprey",
+      "Reef Guardian",
+      "Sentinel",
+      "Oceanus City Council",
+      "Davis",
+      "Boss",
+      "Samantha Blake",
+      "Paackland Harbor",
+      "Neptune",
+      "Elise",
+      "V. Miesel Shipping"
+    ],
+    "links": [
+      {
+        "source": "Oceanus City Council",
+        "target": "Paackland Harbor",
+        "weight": 6
+      },
+      {
+        "source": "Oceanus City Council",
+        "target": "Marlin",
+        "weight": 1
+      },
+      {
+        "source": "Oceanus City Council",
+        "target": "Samantha Blake",
+        "weight": 2
+      },
+      {
+        "source": "Oceanus City Council",
+        "target": "Himark Harbor",
+        "weight": 5
+      },
+      {
+        "source": "Oceanus City Council",
+        "target": "Mako",
+        "weight": 2
+      },
+      {
+        "source": "Oceanus City Council",
+        "target": "Reef Guardian",
+        "weight": 2
+      },
+      {
+        "source": "Oceanus City Council",
+        "target": "Sentinel",
+        "weight": 1
+      },
+      {
+        "source": "Oceanus City Council",
+        "target": "Oceanus City Council",
+        "weight": 1
+      },
+      {
+        "source": "Neptune",
+        "target": "Mako",
+        "weight": 7
+      },
+      {
+        "source": "Neptune",
+        "target": "Serenity",
+        "weight": 1
+      },
+      {
+        "source": "Neptune",
+        "target": "V. Miesel Shipping",
+        "weight": 8
+      },
+      {
+        "source": "Neptune",
+        "target": "Remora",
+        "weight": 9
+      },
+      {
+        "source": "Neptune",
+        "target": "Elise",
+        "weight": 3
+      },
+      {
+        "source": "Neptune",
+        "target": "Reef Guardian",
+        "weight": 1
+      },
+      {
+        "source": "Neptune",
+        "target": "Himark Harbor",
+        "weight": 1
+      },
+      {
+        "source": "Neptune",
+        "target": "Davis",
+        "weight": 2
+      },
+      {
+        "source": "Marlin",
+        "target": "Himark Harbor",
+        "weight": 2
+      },
+      {
+        "source": "Marlin",
+        "target": "Oceanus City Council",
+        "weight": 1
+      },
+      {
+        "source": "Marlin",
+        "target": "Mako",
+        "weight": 1
+      },
+      {
+        "source": "Marlin",
+        "target": "Remora",
+        "weight": 2
+      },
+      {
+        "source": "Marlin",
+        "target": "Reef Guardian",
+        "weight": 1
+      },
+      {
+        "source": "V. Miesel Shipping",
+        "target": "Remora",
+        "weight": 2
+      },
+      {
+        "source": "V. Miesel Shipping",
+        "target": "Boss",
+        "weight": 1
+      },
+      {
+        "source": "V. Miesel Shipping",
+        "target": "Neptune",
+        "weight": 4
+      },
+      {
+        "source": "V. Miesel Shipping",
+        "target": "V. Miesel Shipping",
+        "weight": 2
+      },
+      {
+        "source": "V. Miesel Shipping",
+        "target": "Mako",
+        "weight": 1
+      },
+      {
+        "source": "V. Miesel Shipping",
+        "target": "Elise",
+        "weight": 1
+      },
+      {
+        "source": "V. Miesel Shipping",
+        "target": "Davis",
+        "weight": 1
+      },
+      {
+        "source": "Elise",
+        "target": "V. Miesel Shipping",
+        "weight": 1
+      },
+      {
+        "source": "Boss",
+        "target": "V. Miesel Shipping",
+        "weight": 1
+      },
+      {
+        "source": "Boss",
+        "target": "Mako",
+        "weight": 1
+      },
+      {
+        "source": "Samantha Blake",
+        "target": "Sailor Shifts Team",
+        "weight": 3
+      },
+      {
+        "source": "Samantha Blake",
+        "target": "Oceanus City Council",
+        "weight": 3
+      },
+      {
+        "source": "Samantha Blake",
+        "target": "Mako",
+        "weight": 3
+      },
+      {
+        "source": "Sailor Shifts Team",
+        "target": "Remora",
+        "weight": 1
+      },
+      {
+        "source": "Mako",
+        "target": "Serenity",
+        "weight": 1
+      },
+      {
+        "source": "Mako",
+        "target": "Remora",
+        "weight": 5
+      },
+      {
+        "source": "Mako",
+        "target": "Himark Harbor",
+        "weight": 4
+      },
+      {
+        "source": "Mako",
+        "target": "Sailor Shifts Team",
+        "weight": 1
+      },
+      {
+        "source": "Mako",
+        "target": "Marlin",
+        "weight": 1
+      },
+      {
+        "source": "Mako",
+        "target": "Osprey",
+        "weight": 2
+      },
+      {
+        "source": "Mako",
+        "target": "Reef Guardian",
+        "weight": 2
+      },
+      {
+        "source": "Mako",
+        "target": "Sentinel",
+        "weight": 4
+      },
+      {
+        "source": "Mako",
+        "target": "Oceanus City Council",
+        "weight": 1
+      },
+      {
+        "source": "Mako",
+        "target": "Davis",
+        "weight": 1
+      },
+      {
+        "source": "Mako",
+        "target": "Boss",
+        "weight": 2
+      },
+      {
+        "source": "Mako",
+        "target": "Samantha Blake",
+        "weight": 4
+      },
+      {
+        "source": "Mako",
+        "target": "Paackland Harbor",
+        "weight": 2
+      },
+      {
+        "source": "Mako",
+        "target": "Neptune",
+        "weight": 3
+      },
+      {
+        "source": "Mako",
+        "target": "Elise",
+        "weight": 1
+      },
+      {
+        "source": "Mako",
+        "target": "V. Miesel Shipping",
+        "weight": 1
+      },
+      {
+        "source": "Davis",
+        "target": "Davis",
+        "weight": 6
+      },
+      {
+        "source": "Davis",
+        "target": "Mako",
+        "weight": 5
+      },
+      {
+        "source": "Davis",
+        "target": "Remora",
+        "weight": 4
+      },
+      {
+        "source": "Davis",
+        "target": "Himark Harbor",
+        "weight": 1
+      },
+      {
+        "source": "Davis",
+        "target": "Neptune",
+        "weight": 1
+      },
+      {
+        "source": "Davis",
+        "target": "V. Miesel Shipping",
+        "weight": 2
+      },
+      {
+        "source": "Davis",
+        "target": "Boss",
+        "weight": 1
+      },
+      {
+        "source": "Remora",
+        "target": "Paackland Harbor",
+        "weight": 3
+      },
+      {
+        "source": "Remora",
+        "target": "Mako",
+        "weight": 9
+      },
+      {
+        "source": "Remora",
+        "target": "Sailor Shifts Team",
+        "weight": 2
+      },
+      {
+        "source": "Remora",
+        "target": "Neptune",
+        "weight": 6
+      },
+      {
+        "source": "Remora",
+        "target": "Himark Harbor",
+        "weight": 1
+      },
+      {
+        "source": "Remora",
+        "target": "Davis",
+        "weight": 1
+      },
+      {
+        "source": "Remora",
+        "target": "V. Miesel Shipping",
+        "weight": 1
+      },
+      {
+        "source": "Himark Harbor",
+        "target": "Mako",
+        "weight": 3
+      },
+      {
+        "source": "Himark Harbor",
+        "target": "Serenity",
+        "weight": 3
+      },
+      {
+        "source": "Himark Harbor",
+        "target": "Marlin",
+        "weight": 2
+      },
+      {
+        "source": "Himark Harbor",
+        "target": "Oceanus City Council",
+        "weight": 7
+      },
+      {
+        "source": "Himark Harbor",
+        "target": "Remora",
+        "weight": 3
+      },
+      {
+        "source": "Himark Harbor",
+        "target": "Neptune",
+        "weight": 5
+      },
+      {
+        "source": "Sentinel",
+        "target": "Paackland Harbor",
+        "weight": 1
+      },
+      {
+        "source": "Sentinel",
+        "target": "Mako",
+        "weight": 5
+      },
+      {
+        "source": "Sentinel",
+        "target": "Reef Guardian",
+        "weight": 1
+      },
+      {
+        "source": "Sentinel",
+        "target": "Oceanus City Council",
+        "weight": 2
+      },
+      {
+        "source": "Reef Guardian",
+        "target": "Serenity",
+        "weight": 3
+      },
+      {
+        "source": "Reef Guardian",
+        "target": "Mako",
+        "weight": 2
+      },
+      {
+        "source": "Reef Guardian",
+        "target": "Marlin",
+        "weight": 3
+      },
+      {
+        "source": "Reef Guardian",
+        "target": "Paackland Harbor",
+        "weight": 2
+      },
+      {
+        "source": "Reef Guardian",
+        "target": "Sentinel",
+        "weight": 3
+      },
+      {
+        "source": "Reef Guardian",
+        "target": "Neptune",
+        "weight": 1
+      },
+      {
+        "source": "Reef Guardian",
+        "target": "Reef Guardian",
+        "weight": 3
+      },
+      {
+        "source": "Reef Guardian",
+        "target": "Oceanus City Council",
+        "weight": 4
+      },
+      {
+        "source": "Paackland Harbor",
+        "target": "Remora",
+        "weight": 4
+      },
+      {
+        "source": "Paackland Harbor",
+        "target": "Oceanus City Council",
+        "weight": 2
+      },
+      {
+        "source": "Paackland Harbor",
+        "target": "Reef Guardian",
+        "weight": 2
+      },
+      {
+        "source": "Paackland Harbor",
+        "target": "Sentinel",
+        "weight": 4
+      },
+      {
+        "source": "Paackland Harbor",
+        "target": "Mako",
+        "weight": 3
+      },
+      {
+        "source": "Serenity",
+        "target": "Mako",
+        "weight": 2
+      },
+      {
+        "source": "Serenity",
+        "target": "Reef Guardian",
+        "weight": 2
+      },
+      {
+        "source": "Serenity",
+        "target": "Himark Harbor",
+        "weight": 2
+      },
+      {
+        "source": "Serenity",
+        "target": "Neptune",
+        "weight": 2
+      },
+      {
+        "source": "Osprey",
+        "target": "Mako",
+        "weight": 6
+      }
+    ]
+  },
+  "Reef Guardian": {
+    "nodes": [
+      "Reef Guardian",
+      "Serenity",
+      "Defender",
+      "Mako",
+      "Marlin",
+      "Paackland Harbor",
+      "Horizon",
+      "Sentinel",
+      "Neptune",
+      "Reef Guardian",
+      "Oceanus City Council",
+      "EcoVigil",
+      "Seawatch",
+      "Port Security"
+    ],
+    "links": [
+      {
+        "source": "Oceanus City Council",
+        "target": "Paackland Harbor",
+        "weight": 6
+      },
+      {
+        "source": "Oceanus City Council",
+        "target": "Marlin",
+        "weight": 1
+      },
+      {
+        "source": "Oceanus City Council",
+        "target": "Mako",
+        "weight": 2
+      },
+      {
+        "source": "Oceanus City Council",
+        "target": "Reef Guardian",
+        "weight": 2
+      },
+      {
+        "source": "Oceanus City Council",
+        "target": "Sentinel",
+        "weight": 1
+      },
+      {
+        "source": "Oceanus City Council",
+        "target": "EcoVigil",
+        "weight": 1
+      },
+      {
+        "source": "Oceanus City Council",
+        "target": "Oceanus City Council",
+        "weight": 1
+      },
+      {
+        "source": "Neptune",
+        "target": "Mako",
+        "weight": 7
+      },
+      {
+        "source": "Neptune",
+        "target": "Serenity",
+        "weight": 1
+      },
+      {
+        "source": "Neptune",
+        "target": "Reef Guardian",
+        "weight": 1
+      },
+      {
+        "source": "Marlin",
+        "target": "Oceanus City Council",
+        "weight": 1
+      },
+      {
+        "source": "Marlin",
+        "target": "Mako",
+        "weight": 1
+      },
+      {
+        "source": "Marlin",
+        "target": "Reef Guardian",
+        "weight": 1
+      },
+      {
+        "source": "EcoVigil",
+        "target": "Horizon",
+        "weight": 5
+      },
+      {
+        "source": "EcoVigil",
+        "target": "Reef Guardian",
+        "weight": 2
+      },
+      {
+        "source": "EcoVigil",
+        "target": "EcoVigil",
+        "weight": 2
+      },
+      {
+        "source": "EcoVigil",
+        "target": "Oceanus City Council",
+        "weight": 1
+      },
+      {
+        "source": "EcoVigil",
+        "target": "Sentinel",
+        "weight": 2
+      },
+      {
+        "source": "Mako",
+        "target": "Serenity",
+        "weight": 1
+      },
+      {
+        "source": "Mako",
+        "target": "Marlin",
+        "weight": 1
+      },
+      {
+        "source": "Mako",
+        "target": "Reef Guardian",
+        "weight": 2
+      },
+      {
+        "source": "Mako",
+        "target": "Sentinel",
+        "weight": 4
+      },
+      {
+        "source": "Mako",
+        "target": "Oceanus City Council",
+        "weight": 1
+      },
+      {
+        "source": "Mako",
+        "target": "Paackland Harbor",
+        "weight": 2
+      },
+      {
+        "source": "Mako",
+        "target": "Neptune",
+        "weight": 3
+      },
+      {
+        "source": "Sentinel",
+        "target": "Horizon",
+        "weight": 5
+      },
+      {
+        "source": "Sentinel",
+        "target": "Paackland Harbor",
+        "weight": 1
+      },
+      {
+        "source": "Sentinel",
+        "target": "Mako",
+        "weight": 5
+      },
+      {
+        "source": "Sentinel",
+        "target": "Reef Guardian",
+        "weight": 1
+      },
+      {
+        "source": "Sentinel",
+        "target": "Oceanus City Council",
+        "weight": 2
+      },
+      {
+        "source": "Sentinel",
+        "target": "Seawatch",
+        "weight": 1
+      },
+      {
+        "source": "Horizon",
+        "target": "Sentinel",
+        "weight": 4
+      },
+      {
+        "source": "Horizon",
+        "target": "EcoVigil",
+        "weight": 3
+      },
+      {
+        "source": "Horizon",
+        "target": "Mako",
+        "weight": 1
+      },
+      {
+        "source": "Horizon",
+        "target": "Seawatch",
+        "weight": 2
+      },
+      {
+        "source": "Horizon",
+        "target": "Reef Guardian",
+        "weight": 1
+      },
+      {
+        "source": "Horizon",
+        "target": "Oceanus City Council",
+        "weight": 1
+      },
+      {
+        "source": "Reef Guardian",
+        "target": "Serenity",
+        "weight": 3
+      },
+      {
+        "source": "Reef Guardian",
+        "target": "Defender",
+        "weight": 2
+      },
+      {
+        "source": "Reef Guardian",
+        "target": "Mako",
+        "weight": 2
+      },
+      {
+        "source": "Reef Guardian",
+        "target": "Marlin",
+        "weight": 3
+      },
+      {
+        "source": "Reef Guardian",
+        "target": "Paackland Harbor",
+        "weight": 2
+      },
+      {
+        "source": "Reef Guardian",
+        "target": "Horizon",
+        "weight": 3
+      },
+      {
+        "source": "Reef Guardian",
+        "target": "Sentinel",
+        "weight": 3
+      },
+      {
+        "source": "Reef Guardian",
+        "target": "Neptune",
+        "weight": 1
+      },
+      {
+        "source": "Reef Guardian",
+        "target": "Reef Guardian",
+        "weight": 3
+      },
+      {
+        "source": "Reef Guardian",
+        "target": "Oceanus City Council",
+        "weight": 4
+      },
+      {
+        "source": "Reef Guardian",
+        "target": "EcoVigil",
+        "weight": 4
+      },
+      {
+        "source": "Reef Guardian",
+        "target": "Seawatch",
+        "weight": 3
+      },
+      {
+        "source": "Reef Guardian",
+        "target": "Port Security",
+        "weight": 1
+      },
+      {
+        "source": "Paackland Harbor",
+        "target": "Oceanus City Council",
+        "weight": 2
+      },
+      {
+        "source": "Paackland Harbor",
+        "target": "Reef Guardian",
+        "weight": 2
+      },
+      {
+        "source": "Paackland Harbor",
+        "target": "Sentinel",
+        "weight": 4
+      },
+      {
+        "source": "Paackland Harbor",
+        "target": "Mako",
+        "weight": 3
+      },
+      {
+        "source": "Seawatch",
+        "target": "Reef Guardian",
+        "weight": 1
+      },
+      {
+        "source": "Serenity",
+        "target": "Mako",
+        "weight": 2
+      },
+      {
+        "source": "Serenity",
+        "target": "Reef Guardian",
+        "weight": 2
+      },
+      {
+        "source": "Serenity",
+        "target": "Neptune",
+        "weight": 2
+      },
+      {
+        "source": "Defender",
+        "target": "Reef Guardian",
+        "weight": 3
+      },
+      {
+        "source": "Defender",
+        "target": "Seawatch",
+        "weight": 1
+      },
+      {
+        "source": "Defender",
+        "target": "Mako",
+        "weight": 1
+      }
+    ]
+  },
+  "Horizon": {
+    "nodes": [
+      "Horizon",
+      "Sentinel",
+      "EcoVigil",
+      "Green Guardians",
+      "Mako",
+      "Seawatch",
+      "Reef Guardian",
+      "Oceanus City Council"
+    ],
+    "links": [
+      {
+        "source": "Oceanus City Council",
+        "target": "Green Guardians",
+        "weight": 6
+      },
+      {
+        "source": "Oceanus City Council",
+        "target": "Mako",
+        "weight": 2
+      },
+      {
+        "source": "Oceanus City Council",
+        "target": "Reef Guardian",
+        "weight": 2
+      },
+      {
+        "source": "Oceanus City Council",
+        "target": "Sentinel",
+        "weight": 1
+      },
+      {
+        "source": "Oceanus City Council",
+        "target": "EcoVigil",
+        "weight": 1
+      },
+      {
+        "source": "Oceanus City Council",
+        "target": "Oceanus City Council",
+        "weight": 1
+      },
+      {
+        "source": "EcoVigil",
+        "target": "Horizon",
+        "weight": 5
+      },
+      {
+        "source": "EcoVigil",
+        "target": "Reef Guardian",
+        "weight": 2
+      },
+      {
+        "source": "EcoVigil",
+        "target": "EcoVigil",
+        "weight": 2
+      },
+      {
+        "source": "EcoVigil",
+        "target": "Oceanus City Council",
+        "weight": 1
+      },
+      {
+        "source": "EcoVigil",
+        "target": "Sentinel",
+        "weight": 2
+      },
+      {
+        "source": "Mako",
+        "target": "Reef Guardian",
+        "weight": 2
+      },
+      {
+        "source": "Mako",
+        "target": "Sentinel",
+        "weight": 4
+      },
+      {
+        "source": "Mako",
+        "target": "Oceanus City Council",
+        "weight": 1
+      },
+      {
+        "source": "Sentinel",
+        "target": "Green Guardians",
+        "weight": 2
+      },
+      {
+        "source": "Sentinel",
+        "target": "Horizon",
+        "weight": 5
+      },
+      {
+        "source": "Sentinel",
+        "target": "Mako",
+        "weight": 5
+      },
+      {
+        "source": "Sentinel",
+        "target": "Reef Guardian",
+        "weight": 1
+      },
+      {
+        "source": "Sentinel",
+        "target": "Oceanus City Council",
+        "weight": 2
+      },
+      {
+        "source": "Sentinel",
+        "target": "Seawatch",
+        "weight": 1
+      },
+      {
+        "source": "Horizon",
+        "target": "Sentinel",
+        "weight": 4
+      },
+      {
+        "source": "Horizon",
+        "target": "EcoVigil",
+        "weight": 3
+      },
+      {
+        "source": "Horizon",
+        "target": "Green Guardians",
+        "weight": 2
+      },
+      {
+        "source": "Horizon",
+        "target": "Mako",
+        "weight": 1
+      },
+      {
+        "source": "Horizon",
+        "target": "Seawatch",
+        "weight": 2
+      },
+      {
+        "source": "Horizon",
+        "target": "Reef Guardian",
+        "weight": 1
+      },
+      {
+        "source": "Horizon",
+        "target": "Oceanus City Council",
+        "weight": 1
+      },
+      {
+        "source": "Green Guardians",
+        "target": "Reef Guardian",
+        "weight": 6
+      },
+      {
+        "source": "Green Guardians",
+        "target": "Horizon",
+        "weight": 4
+      },
+      {
+        "source": "Green Guardians",
+        "target": "Seawatch",
+        "weight": 2
+      },
+      {
+        "source": "Green Guardians",
+        "target": "EcoVigil",
+        "weight": 3
+      },
+      {
+        "source": "Green Guardians",
+        "target": "Oceanus City Council",
+        "weight": 12
+      },
+      {
+        "source": "Green Guardians",
+        "target": "Green Guardians",
+        "weight": 12
+      },
+      {
+        "source": "Green Guardians",
+        "target": "Mako",
+        "weight": 2
+      },
+      {
+        "source": "Green Guardians",
+        "target": "Sentinel",
+        "weight": 1
+      },
+      {
+        "source": "Reef Guardian",
+        "target": "Mako",
+        "weight": 2
+      },
+      {
+        "source": "Reef Guardian",
+        "target": "Horizon",
+        "weight": 3
+      },
+      {
+        "source": "Reef Guardian",
+        "target": "Sentinel",
+        "weight": 3
+      },
+      {
+        "source": "Reef Guardian",
+        "target": "Reef Guardian",
+        "weight": 3
+      },
+      {
+        "source": "Reef Guardian",
+        "target": "Oceanus City Council",
+        "weight": 4
+      },
+      {
+        "source": "Reef Guardian",
+        "target": "EcoVigil",
+        "weight": 4
+      },
+      {
+        "source": "Reef Guardian",
+        "target": "Seawatch",
+        "weight": 3
+      },
+      {
+        "source": "Seawatch",
+        "target": "Reef Guardian",
+        "weight": 1
+      },
+      {
+        "source": "Seawatch",
+        "target": "Green Guardians",
+        "weight": 1
+      }
+    ]
+  },
+  "Seawatch": {
+    "nodes": [
+      "Seawatch",
+      "Reef Guardian",
+      "Himark Harbor",
+      "Green Guardians"
+    ],
+    "links": [
+      {
+        "source": "Himark Harbor",
+        "target": "Seawatch",
+        "weight": 3
+      },
+      {
+        "source": "Green Guardians",
+        "target": "Reef Guardian",
+        "weight": 6
+      },
+      {
+        "source": "Green Guardians",
+        "target": "Seawatch",
+        "weight": 2
+      },
+      {
+        "source": "Green Guardians",
+        "target": "Green Guardians",
+        "weight": 12
+      },
+      {
+        "source": "Reef Guardian",
+        "target": "Reef Guardian",
+        "weight": 3
+      },
+      {
+        "source": "Reef Guardian",
+        "target": "Seawatch",
+        "weight": 3
+      },
+      {
+        "source": "Seawatch",
+        "target": "Reef Guardian",
+        "weight": 1
+      },
+      {
+        "source": "Seawatch",
+        "target": "Himark Harbor",
+        "weight": 1
+      },
+      {
+        "source": "Seawatch",
+        "target": "Green Guardians",
+        "weight": 1
+      }
+    ]
+  },
+  "EcoVigil": {
+    "nodes": [
+      "EcoVigil",
+      "Horizon",
+      "Reef Guardian",
+      "EcoVigil",
+      "Oceanus City Council",
+      "Liam Thorne",
+      "Sentinel"
+    ],
+    "links": [
+      {
+        "source": "Oceanus City Council",
+        "target": "Liam Thorne",
+        "weight": 8
+      },
+      {
+        "source": "Oceanus City Council",
+        "target": "Reef Guardian",
+        "weight": 2
+      },
+      {
+        "source": "Oceanus City Council",
+        "target": "Sentinel",
+        "weight": 1
+      },
+      {
+        "source": "Oceanus City Council",
+        "target": "EcoVigil",
+        "weight": 1
+      },
+      {
+        "source": "Oceanus City Council",
+        "target": "Oceanus City Council",
+        "weight": 1
+      },
+      {
+        "source": "Liam Thorne",
+        "target": "Oceanus City Council",
+        "weight": 6
+      },
+      {
+        "source": "Liam Thorne",
+        "target": "EcoVigil",
+        "weight": 1
+      },
+      {
+        "source": "EcoVigil",
+        "target": "Horizon",
+        "weight": 5
+      },
+      {
+        "source": "EcoVigil",
+        "target": "Reef Guardian",
+        "weight": 2
+      },
+      {
+        "source": "EcoVigil",
+        "target": "EcoVigil",
+        "weight": 2
+      },
+      {
+        "source": "EcoVigil",
+        "target": "Oceanus City Council",
+        "weight": 1
+      },
+      {
+        "source": "EcoVigil",
+        "target": "Liam Thorne",
+        "weight": 2
+      },
+      {
+        "source": "EcoVigil",
+        "target": "Sentinel",
+        "weight": 2
+      },
+      {
+        "source": "Sentinel",
+        "target": "Horizon",
+        "weight": 5
+      },
+      {
+        "source": "Sentinel",
+        "target": "Reef Guardian",
+        "weight": 1
+      },
+      {
+        "source": "Sentinel",
+        "target": "Oceanus City Council",
+        "weight": 2
+      },
+      {
+        "source": "Horizon",
+        "target": "Sentinel",
+        "weight": 4
+      },
+      {
+        "source": "Horizon",
+        "target": "EcoVigil",
+        "weight": 3
+      },
+      {
+        "source": "Horizon",
+        "target": "Reef Guardian",
+        "weight": 1
+      },
+      {
+        "source": "Horizon",
+        "target": "Oceanus City Council",
+        "weight": 1
+      },
+      {
+        "source": "Reef Guardian",
+        "target": "Horizon",
+        "weight": 3
+      },
+      {
+        "source": "Reef Guardian",
+        "target": "Sentinel",
+        "weight": 3
+      },
+      {
+        "source": "Reef Guardian",
+        "target": "Reef Guardian",
+        "weight": 3
+      },
+      {
+        "source": "Reef Guardian",
+        "target": "Oceanus City Council",
+        "weight": 4
+      },
+      {
+        "source": "Reef Guardian",
+        "target": "EcoVigil",
+        "weight": 4
+      }
+    ]
+  },
+  "Sentinel": {
+    "nodes": [
+      "Sentinel",
+      "Green Guardians",
+      "Horizon",
+      "Paackland Harbor",
+      "Mako",
+      "Reef Guardian",
+      "Oceanus City Council",
+      "Nadia Conti",
+      "Seawatch"
+    ],
+    "links": [
+      {
+        "source": "Nadia Conti",
+        "target": "Oceanus City Council",
+        "weight": 1
+      },
+      {
+        "source": "Oceanus City Council",
+        "target": "Paackland Harbor",
+        "weight": 6
+      },
+      {
+        "source": "Oceanus City Council",
+        "target": "Green Guardians",
+        "weight": 6
+      },
+      {
+        "source": "Oceanus City Council",
+        "target": "Mako",
+        "weight": 2
+      },
+      {
+        "source": "Oceanus City Council",
+        "target": "Nadia Conti",
+        "weight": 1
+      },
+      {
+        "source": "Oceanus City Council",
+        "target": "Reef Guardian",
+        "weight": 2
+      },
+      {
+        "source": "Oceanus City Council",
+        "target": "Sentinel",
+        "weight": 1
+      },
+      {
+        "source": "Oceanus City Council",
+        "target": "Oceanus City Council",
+        "weight": 1
+      },
+      {
+        "source": "Mako",
+        "target": "Reef Guardian",
+        "weight": 2
+      },
+      {
+        "source": "Mako",
+        "target": "Sentinel",
+        "weight": 4
+      },
+      {
+        "source": "Mako",
+        "target": "Oceanus City Council",
+        "weight": 1
+      },
+      {
+        "source": "Mako",
+        "target": "Paackland Harbor",
+        "weight": 2
+      },
+      {
+        "source": "Sentinel",
+        "target": "Green Guardians",
+        "weight": 2
+      },
+      {
+        "source": "Sentinel",
+        "target": "Horizon",
+        "weight": 5
+      },
+      {
+        "source": "Sentinel",
+        "target": "Paackland Harbor",
+        "weight": 1
+      },
+      {
+        "source": "Sentinel",
+        "target": "Mako",
+        "weight": 5
+      },
+      {
+        "source": "Sentinel",
+        "target": "Reef Guardian",
+        "weight": 1
+      },
+      {
+        "source": "Sentinel",
+        "target": "Oceanus City Council",
+        "weight": 2
+      },
+      {
+        "source": "Sentinel",
+        "target": "Nadia Conti",
+        "weight": 1
+      },
+      {
+        "source": "Sentinel",
+        "target": "Seawatch",
+        "weight": 1
+      },
+      {
+        "source": "Horizon",
+        "target": "Sentinel",
+        "weight": 4
+      },
+      {
+        "source": "Horizon",
+        "target": "Green Guardians",
+        "weight": 2
+      },
+      {
+        "source": "Horizon",
+        "target": "Mako",
+        "weight": 1
+      },
+      {
+        "source": "Horizon",
+        "target": "Seawatch",
+        "weight": 2
+      },
+      {
+        "source": "Horizon",
+        "target": "Reef Guardian",
+        "weight": 1
+      },
+      {
+        "source": "Horizon",
+        "target": "Oceanus City Council",
+        "weight": 1
+      },
+      {
+        "source": "Green Guardians",
+        "target": "Reef Guardian",
+        "weight": 6
+      },
+      {
+        "source": "Green Guardians",
+        "target": "Horizon",
+        "weight": 4
+      },
+      {
+        "source": "Green Guardians",
+        "target": "Seawatch",
+        "weight": 2
+      },
+      {
+        "source": "Green Guardians",
+        "target": "Oceanus City Council",
+        "weight": 12
+      },
+      {
+        "source": "Green Guardians",
+        "target": "Green Guardians",
+        "weight": 12
+      },
+      {
+        "source": "Green Guardians",
+        "target": "Mako",
+        "weight": 2
+      },
+      {
+        "source": "Green Guardians",
+        "target": "Sentinel",
+        "weight": 1
+      },
+      {
+        "source": "Green Guardians",
+        "target": "Paackland Harbor",
+        "weight": 1
+      },
+      {
+        "source": "Reef Guardian",
+        "target": "Mako",
+        "weight": 2
+      },
+      {
+        "source": "Reef Guardian",
+        "target": "Paackland Harbor",
+        "weight": 2
+      },
+      {
+        "source": "Reef Guardian",
+        "target": "Horizon",
+        "weight": 3
+      },
+      {
+        "source": "Reef Guardian",
+        "target": "Sentinel",
+        "weight": 3
+      },
+      {
+        "source": "Reef Guardian",
+        "target": "Reef Guardian",
+        "weight": 3
+      },
+      {
+        "source": "Reef Guardian",
+        "target": "Oceanus City Council",
+        "weight": 4
+      },
+      {
+        "source": "Reef Guardian",
+        "target": "Seawatch",
+        "weight": 3
+      },
+      {
+        "source": "Paackland Harbor",
+        "target": "Oceanus City Council",
+        "weight": 2
+      },
+      {
+        "source": "Paackland Harbor",
+        "target": "Reef Guardian",
+        "weight": 2
+      },
+      {
+        "source": "Paackland Harbor",
+        "target": "Sentinel",
+        "weight": 4
+      },
+      {
+        "source": "Paackland Harbor",
+        "target": "Mako",
+        "weight": 3
+      },
+      {
+        "source": "Seawatch",
+        "target": "Reef Guardian",
+        "weight": 1
+      },
+      {
+        "source": "Seawatch",
+        "target": "Green Guardians",
+        "weight": 1
+      }
+    ]
+  },
+  "Osprey": {
+    "nodes": [
+      "Osprey",
+      "Mako"
+    ],
+    "links": [
+      {
+        "source": "Mako",
+        "target": "Osprey",
+        "weight": 2
+      },
+      {
+        "source": "Osprey",
+        "target": "Mako",
+        "weight": 6
+      }
+    ]
+  },
+  "Defender": {
+    "nodes": [
+      "Defender",
+      "Reef Guardian",
+      "Seawatch",
+      "Mako"
+    ],
+    "links": [
+      {
+        "source": "Mako",
+        "target": "Reef Guardian",
+        "weight": 2
+      },
+      {
+        "source": "Reef Guardian",
+        "target": "Defender",
+        "weight": 2
+      },
+      {
+        "source": "Reef Guardian",
+        "target": "Mako",
+        "weight": 2
+      },
+      {
+        "source": "Reef Guardian",
+        "target": "Reef Guardian",
+        "weight": 3
+      },
+      {
+        "source": "Reef Guardian",
+        "target": "Seawatch",
+        "weight": 3
+      },
+      {
+        "source": "Seawatch",
+        "target": "Reef Guardian",
+        "weight": 1
+      },
+      {
+        "source": "Defender",
+        "target": "Reef Guardian",
+        "weight": 3
+      },
+      {
+        "source": "Defender",
+        "target": "Seawatch",
+        "weight": 1
+      },
+      {
+        "source": "Defender",
+        "target": "Mako",
+        "weight": 1
+      }
+    ]
+  },
+  "Northern Light": {
+    "nodes": [
+      "Northern Light",
+      "Oceanus City Council",
+      "Sailor Shifts Team",
+      "Green Guardians",
+      "Himark Harbor"
+    ],
+    "links": [
+      {
+        "source": "Oceanus City Council",
+        "target": "Himark Harbor",
+        "weight": 5
+      },
+      {
+        "source": "Oceanus City Council",
+        "target": "Green Guardians",
+        "weight": 6
+      },
+      {
+        "source": "Oceanus City Council",
+        "target": "Northern Light",
+        "weight": 1
+      },
+      {
+        "source": "Oceanus City Council",
+        "target": "Oceanus City Council",
+        "weight": 1
+      },
+      {
+        "source": "Himark Harbor",
+        "target": "Oceanus City Council",
+        "weight": 7
+      },
+      {
+        "source": "Himark Harbor",
+        "target": "Northern Light",
+        "weight": 1
+      },
+      {
+        "source": "Green Guardians",
+        "target": "Oceanus City Council",
+        "weight": 12
+      },
+      {
+        "source": "Green Guardians",
+        "target": "Northern Light",
+        "weight": 1
+      },
+      {
+        "source": "Green Guardians",
+        "target": "Green Guardians",
+        "weight": 12
+      },
+      {
+        "source": "Northern Light",
+        "target": "Oceanus City Council",
+        "weight": 1
+      },
+      {
+        "source": "Northern Light",
+        "target": "Sailor Shifts Team",
+        "weight": 1
+      },
+      {
+        "source": "Northern Light",
+        "target": "Green Guardians",
+        "weight": 1
+      },
+      {
+        "source": "Northern Light",
+        "target": "Himark Harbor",
+        "weight": 1
+      }
+    ]
+  },
+  "Remora": {
+    "nodes": [
+      "Remora",
+      "Paackland Harbor",
+      "Rodriguez",
+      "Mako",
+      "Sailor Shifts Team",
+      "Neptune",
+      "Himark Harbor",
+      "Davis",
+      "Nadia Conti",
+      "V. Miesel Shipping"
+    ],
+    "links": [
+      {
+        "source": "Nadia Conti",
+        "target": "Neptune",
+        "weight": 2
+      },
+      {
+        "source": "Nadia Conti",
+        "target": "V. Miesel Shipping",
+        "weight": 1
+      },
+      {
+        "source": "Neptune",
+        "target": "Mako",
+        "weight": 7
+      },
+      {
+        "source": "Neptune",
+        "target": "V. Miesel Shipping",
+        "weight": 8
+      },
+      {
+        "source": "Neptune",
+        "target": "Remora",
+        "weight": 9
+      },
+      {
+        "source": "Neptune",
+        "target": "Nadia Conti",
+        "weight": 1
+      },
+      {
+        "source": "Neptune",
+        "target": "Himark Harbor",
+        "weight": 1
+      },
+      {
+        "source": "Neptune",
+        "target": "Davis",
+        "weight": 2
+      },
+      {
+        "source": "V. Miesel Shipping",
+        "target": "Remora",
+        "weight": 2
+      },
+      {
+        "source": "V. Miesel Shipping",
+        "target": "Neptune",
+        "weight": 4
+      },
+      {
+        "source": "V. Miesel Shipping",
+        "target": "V. Miesel Shipping",
+        "weight": 2
+      },
+      {
+        "source": "V. Miesel Shipping",
+        "target": "Mako",
+        "weight": 1
+      },
+      {
+        "source": "V. Miesel Shipping",
+        "target": "Davis",
+        "weight": 1
+      },
+      {
+        "source": "V. Miesel Shipping",
+        "target": "Rodriguez",
+        "weight": 1
+      },
+      {
+        "source": "V. Miesel Shipping",
+        "target": "Nadia Conti",
+        "weight": 1
+      },
+      {
+        "source": "Sailor Shifts Team",
+        "target": "Remora",
+        "weight": 1
+      },
+      {
+        "source": "Sailor Shifts Team",
+        "target": "Nadia Conti",
+        "weight": 1
+      },
+      {
+        "source": "Mako",
+        "target": "Remora",
+        "weight": 5
+      },
+      {
+        "source": "Mako",
+        "target": "Himark Harbor",
+        "weight": 4
+      },
+      {
+        "source": "Mako",
+        "target": "Sailor Shifts Team",
+        "weight": 1
+      },
+      {
+        "source": "Mako",
+        "target": "Davis",
+        "weight": 1
+      },
+      {
+        "source": "Mako",
+        "target": "Paackland Harbor",
+        "weight": 2
+      },
+      {
+        "source": "Mako",
+        "target": "Neptune",
+        "weight": 3
+      },
+      {
+        "source": "Mako",
+        "target": "V. Miesel Shipping",
+        "weight": 1
+      },
+      {
+        "source": "Davis",
+        "target": "Davis",
+        "weight": 6
+      },
+      {
+        "source": "Davis",
+        "target": "Mako",
+        "weight": 5
+      },
+      {
+        "source": "Davis",
+        "target": "Remora",
+        "weight": 4
+      },
+      {
+        "source": "Davis",
+        "target": "Himark Harbor",
+        "weight": 1
+      },
+      {
+        "source": "Davis",
+        "target": "Nadia Conti",
+        "weight": 5
+      },
+      {
+        "source": "Davis",
+        "target": "Neptune",
+        "weight": 1
+      },
+      {
+        "source": "Davis",
+        "target": "V. Miesel Shipping",
+        "weight": 2
+      },
+      {
+        "source": "Remora",
+        "target": "Paackland Harbor",
+        "weight": 3
+      },
+      {
+        "source": "Remora",
+        "target": "Rodriguez",
+        "weight": 1
+      },
+      {
+        "source": "Remora",
+        "target": "Mako",
+        "weight": 9
+      },
+      {
+        "source": "Remora",
+        "target": "Sailor Shifts Team",
+        "weight": 2
+      },
+      {
+        "source": "Remora",
+        "target": "Neptune",
+        "weight": 6
+      },
+      {
+        "source": "Remora",
+        "target": "Himark Harbor",
+        "weight": 1
+      },
+      {
+        "source": "Remora",
+        "target": "Davis",
+        "weight": 1
+      },
+      {
+        "source": "Remora",
+        "target": "Nadia Conti",
+        "weight": 1
+      },
+      {
+        "source": "Remora",
+        "target": "V. Miesel Shipping",
+        "weight": 1
+      },
+      {
+        "source": "Himark Harbor",
+        "target": "Mako",
+        "weight": 3
+      },
+      {
+        "source": "Himark Harbor",
+        "target": "Remora",
+        "weight": 3
+      },
+      {
+        "source": "Himark Harbor",
+        "target": "Neptune",
+        "weight": 5
+      },
+      {
+        "source": "Rodriguez",
+        "target": "Rodriguez",
+        "weight": 4
+      },
+      {
+        "source": "Rodriguez",
+        "target": "Davis",
+        "weight": 3
+      },
+      {
+        "source": "Rodriguez",
+        "target": "Sailor Shifts Team",
+        "weight": 1
+      },
+      {
+        "source": "Rodriguez",
+        "target": "Nadia Conti",
+        "weight": 1
+      },
+      {
+        "source": "Rodriguez",
+        "target": "Remora",
+        "weight": 1
+      },
+      {
+        "source": "Paackland Harbor",
+        "target": "Remora",
+        "weight": 4
+      },
+      {
+        "source": "Paackland Harbor",
+        "target": "Mako",
+        "weight": 3
+      }
+    ]
+  },
+  "Knowles": {
+    "nodes": [
+      "Knowles",
+      "Haacklee Harbor",
+      "Mako",
+      "Davis"
+    ],
+    "links": [
+      {
+        "source": "Haacklee Harbor",
+        "target": "Mako",
+        "weight": 1
+      },
+      {
+        "source": "Haacklee Harbor",
+        "target": "Knowles",
+        "weight": 1
+      },
+      {
+        "source": "Mako",
+        "target": "Davis",
+        "weight": 1
+      },
+      {
+        "source": "Davis",
+        "target": "Davis",
+        "weight": 6
+      },
+      {
+        "source": "Davis",
+        "target": "Mako",
+        "weight": 5
+      },
+      {
+        "source": "Knowles",
+        "target": "Haacklee Harbor",
+        "weight": 1
+      },
+      {
+        "source": "Knowles",
+        "target": "Mako",
+        "weight": 1
+      },
+      {
+        "source": "Knowles",
+        "target": "Davis",
+        "weight": 2
+      }
+    ]
+  },
+  "City Officials": {
+    "nodes": [
+      "City Officials"
+    ],
+    "links": []
+  },
+  "Paackland Harbor": {
+    "nodes": [
+      "Paackland Harbor",
+      "Remora",
+      "Oceanus City Council",
+      "Reef Guardian",
+      "Liam Thorne",
+      "Sentinel",
+      "Mako"
+    ],
+    "links": [
+      {
+        "source": "Oceanus City Council",
+        "target": "Liam Thorne",
+        "weight": 8
+      },
+      {
+        "source": "Oceanus City Council",
+        "target": "Paackland Harbor",
+        "weight": 6
+      },
+      {
+        "source": "Oceanus City Council",
+        "target": "Mako",
+        "weight": 2
+      },
+      {
+        "source": "Oceanus City Council",
+        "target": "Reef Guardian",
+        "weight": 2
+      },
+      {
+        "source": "Oceanus City Council",
+        "target": "Sentinel",
+        "weight": 1
+      },
+      {
+        "source": "Oceanus City Council",
+        "target": "Oceanus City Council",
+        "weight": 1
+      },
+      {
+        "source": "Liam Thorne",
+        "target": "Oceanus City Council",
+        "weight": 6
+      },
+      {
+        "source": "Mako",
+        "target": "Remora",
+        "weight": 5
+      },
+      {
+        "source": "Mako",
+        "target": "Reef Guardian",
+        "weight": 2
+      },
+      {
+        "source": "Mako",
+        "target": "Sentinel",
+        "weight": 4
+      },
+      {
+        "source": "Mako",
+        "target": "Oceanus City Council",
+        "weight": 1
+      },
+      {
+        "source": "Mako",
+        "target": "Paackland Harbor",
+        "weight": 2
+      },
+      {
+        "source": "Remora",
+        "target": "Paackland Harbor",
+        "weight": 3
+      },
+      {
+        "source": "Remora",
+        "target": "Mako",
+        "weight": 9
+      },
+      {
+        "source": "Sentinel",
+        "target": "Paackland Harbor",
+        "weight": 1
+      },
+      {
+        "source": "Sentinel",
+        "target": "Mako",
+        "weight": 5
+      },
+      {
+        "source": "Sentinel",
+        "target": "Reef Guardian",
+        "weight": 1
+      },
+      {
+        "source": "Sentinel",
+        "target": "Oceanus City Council",
+        "weight": 2
+      },
+      {
+        "source": "Reef Guardian",
+        "target": "Mako",
+        "weight": 2
+      },
+      {
+        "source": "Reef Guardian",
+        "target": "Paackland Harbor",
+        "weight": 2
+      },
+      {
+        "source": "Reef Guardian",
+        "target": "Sentinel",
+        "weight": 3
+      },
+      {
+        "source": "Reef Guardian",
+        "target": "Reef Guardian",
+        "weight": 3
+      },
+      {
+        "source": "Reef Guardian",
+        "target": "Oceanus City Council",
+        "weight": 4
+      },
+      {
+        "source": "Paackland Harbor",
+        "target": "Remora",
+        "weight": 4
+      },
+      {
+        "source": "Paackland Harbor",
+        "target": "Oceanus City Council",
+        "weight": 2
+      },
+      {
+        "source": "Paackland Harbor",
+        "target": "Reef Guardian",
+        "weight": 2
+      },
+      {
+        "source": "Paackland Harbor",
+        "target": "Liam Thorne",
+        "weight": 1
+      },
+      {
+        "source": "Paackland Harbor",
+        "target": "Sentinel",
+        "weight": 4
+      },
+      {
+        "source": "Paackland Harbor",
+        "target": "Mako",
+        "weight": 3
+      }
+    ]
+  },
+  "Haacklee Harbor": {
+    "nodes": [
+      "Haacklee Harbor",
+      "Osprey",
+      "Mako",
+      "Nadia Conti",
+      "Oceanus City Council",
+      "EcoVigil",
+      "Knowles"
+    ],
+    "links": [
+      {
+        "source": "Nadia Conti",
+        "target": "Haacklee Harbor",
+        "weight": 1
+      },
+      {
+        "source": "Nadia Conti",
+        "target": "Oceanus City Council",
+        "weight": 1
+      },
+      {
+        "source": "Haacklee Harbor",
+        "target": "Osprey",
+        "weight": 1
+      },
+      {
+        "source": "Haacklee Harbor",
+        "target": "Mako",
+        "weight": 1
+      },
+      {
+        "source": "Haacklee Harbor",
+        "target": "Nadia Conti",
+        "weight": 1
+      },
+      {
+        "source": "Haacklee Harbor",
+        "target": "Oceanus City Council",
+        "weight": 2
+      },
+      {
+        "source": "Haacklee Harbor",
+        "target": "EcoVigil",
+        "weight": 1
+      },
+      {
+        "source": "Haacklee Harbor",
+        "target": "Knowles",
+        "weight": 1
+      },
+      {
+        "source": "Oceanus City Council",
+        "target": "Mako",
+        "weight": 2
+      },
+      {
+        "source": "Oceanus City Council",
+        "target": "Nadia Conti",
+        "weight": 1
+      },
+      {
+        "source": "Oceanus City Council",
+        "target": "EcoVigil",
+        "weight": 1
+      },
+      {
+        "source": "Oceanus City Council",
+        "target": "Oceanus City Council",
+        "weight": 1
+      },
+      {
+        "source": "EcoVigil",
+        "target": "EcoVigil",
+        "weight": 2
+      },
+      {
+        "source": "EcoVigil",
+        "target": "Oceanus City Council",
+        "weight": 1
+      },
+      {
+        "source": "Mako",
+        "target": "Osprey",
+        "weight": 2
+      },
+      {
+        "source": "Mako",
+        "target": "Oceanus City Council",
+        "weight": 1
+      },
+      {
+        "source": "Osprey",
+        "target": "Mako",
+        "weight": 6
+      },
+      {
+        "source": "Knowles",
+        "target": "Haacklee Harbor",
+        "weight": 1
+      },
+      {
+        "source": "Knowles",
+        "target": "Mako",
+        "weight": 1
+      }
+    ]
+  },
+  "Himark Harbor": {
+    "nodes": [
+      "Himark Harbor",
+      "Mako",
+      "Serenity",
+      "Marlin",
+      "Oceanus City Council",
+      "Seawatch",
+      "Remora",
+      "Neptune",
+      "Northern Light"
+    ],
+    "links": [
+      {
+        "source": "Oceanus City Council",
+        "target": "Marlin",
+        "weight": 1
+      },
+      {
+        "source": "Oceanus City Council",
+        "target": "Himark Harbor",
+        "weight": 5
+      },
+      {
+        "source": "Oceanus City Council",
+        "target": "Northern Light",
+        "weight": 1
+      },
+      {
+        "source": "Oceanus City Council",
+        "target": "Mako",
+        "weight": 2
+      },
+      {
+        "source": "Oceanus City Council",
+        "target": "Oceanus City Council",
+        "weight": 1
+      },
+      {
+        "source": "Neptune",
+        "target": "Mako",
+        "weight": 7
+      },
+      {
+        "source": "Neptune",
+        "target": "Serenity",
+        "weight": 1
+      },
+      {
+        "source": "Neptune",
+        "target": "Remora",
+        "weight": 9
+      },
+      {
+        "source": "Neptune",
+        "target": "Himark Harbor",
+        "weight": 1
+      },
+      {
+        "source": "Marlin",
+        "target": "Himark Harbor",
+        "weight": 2
+      },
+      {
+        "source": "Marlin",
+        "target": "Oceanus City Council",
+        "weight": 1
+      },
+      {
+        "source": "Marlin",
+        "target": "Mako",
+        "weight": 1
+      },
+      {
+        "source": "Marlin",
+        "target": "Remora",
+        "weight": 2
+      },
+      {
+        "source": "Mako",
+        "target": "Serenity",
+        "weight": 1
+      },
+      {
+        "source": "Mako",
+        "target": "Remora",
+        "weight": 5
+      },
+      {
+        "source": "Mako",
+        "target": "Himark Harbor",
+        "weight": 4
+      },
+      {
+        "source": "Mako",
+        "target": "Marlin",
+        "weight": 1
+      },
+      {
+        "source": "Mako",
+        "target": "Oceanus City Council",
+        "weight": 1
+      },
+      {
+        "source": "Mako",
+        "target": "Neptune",
+        "weight": 3
+      },
+      {
+        "source": "Remora",
+        "target": "Mako",
+        "weight": 9
+      },
+      {
+        "source": "Remora",
+        "target": "Neptune",
+        "weight": 6
+      },
+      {
+        "source": "Remora",
+        "target": "Himark Harbor",
+        "weight": 1
+      },
+      {
+        "source": "Himark Harbor",
+        "target": "Mako",
+        "weight": 3
+      },
+      {
+        "source": "Himark Harbor",
+        "target": "Serenity",
+        "weight": 3
+      },
+      {
+        "source": "Himark Harbor",
+        "target": "Marlin",
+        "weight": 2
+      },
+      {
+        "source": "Himark Harbor",
+        "target": "Oceanus City Council",
+        "weight": 7
+      },
+      {
+        "source": "Himark Harbor",
+        "target": "Seawatch",
+        "weight": 3
+      },
+      {
+        "source": "Himark Harbor",
+        "target": "Remora",
+        "weight": 3
+      },
+      {
+        "source": "Himark Harbor",
+        "target": "Neptune",
+        "weight": 5
+      },
+      {
+        "source": "Himark Harbor",
+        "target": "Northern Light",
+        "weight": 1
+      },
+      {
+        "source": "Northern Light",
+        "target": "Oceanus City Council",
+        "weight": 1
+      },
+      {
+        "source": "Northern Light",
+        "target": "Himark Harbor",
+        "weight": 1
+      },
+      {
+        "source": "Seawatch",
+        "target": "Himark Harbor",
+        "weight": 1
+      },
+      {
+        "source": "Serenity",
+        "target": "Mako",
+        "weight": 2
+      },
+      {
+        "source": "Serenity",
+        "target": "Himark Harbor",
+        "weight": 2
+      },
+      {
+        "source": "Serenity",
+        "target": "Neptune",
+        "weight": 2
+      }
+    ]
+  },
+  "Port Security": {
+    "nodes": [
+      "Port Security"
+    ],
+    "links": []
+  }
+}
